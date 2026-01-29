@@ -1,0 +1,4495 @@
+{
+  "version": "20260128b",
+  "generatedAt": "2026-01-29T00:15:06Z",
+  "meta": {
+    "total": 320,
+    "sections": {
+      "grammar": 160,
+      "reading": 90,
+      "listening": 70
+    },
+    "note": "بنك أسئلة متنوع (Grammar/Reading/Listening) لمحاكاة نمط STEP."
+  },
+  "questions": [
+    {
+      "id": "G001",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "She is highly interested ___ renewable energy and sustainability.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G002",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The committee is responsible ___ reviewing the final report.",
+      "options": [
+        "for",
+        "with",
+        "of",
+        "to"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G003",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "He insisted ___ paying the bill himself.",
+      "options": [
+        "in",
+        "to",
+        "for",
+        "on"
+      ],
+      "answerIndex": 3,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G004",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "This device is capable ___ detecting very small changes.",
+      "options": [
+        "to",
+        "of",
+        "for",
+        "with"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G005",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The results were consistent ___ previous research.",
+      "options": [
+        "with",
+        "in",
+        "to",
+        "for"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G006",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "We apologized ___ the delay and offered a refund.",
+      "options": [
+        "to",
+        "about",
+        "with",
+        "for"
+      ],
+      "answerIndex": 3,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G007",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The museum is famous ___ its ancient manuscripts.",
+      "options": [
+        "for",
+        "with",
+        "of",
+        "to"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G008",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "They succeeded ___ reducing costs without lowering quality.",
+      "options": [
+        "to",
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G009",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "Please inform me ___ any changes to the schedule.",
+      "options": [
+        "about",
+        "of",
+        "for",
+        "to"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G010",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The study focused ___ how sleep affects memory.",
+      "options": [
+        "on",
+        "in",
+        "for",
+        "at"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G011",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "She objected ___ the proposal because it lacked evidence.",
+      "options": [
+        "with",
+        "to",
+        "on",
+        "for"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G012",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The company complied ___ the new safety regulations.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "in"
+      ],
+      "answerIndex": 0,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G013",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "He was accused ___ cheating on the exam.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "of"
+      ],
+      "answerIndex": 3,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G014",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "We are looking forward ___ meeting you in person.",
+      "options": [
+        "for",
+        "with",
+        "at",
+        "to"
+      ],
+      "answerIndex": 3,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G015",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "Her success depends ___ how consistently she practices.",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G016",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The book provides an introduction ___ basic statistics.",
+      "options": [
+        "on",
+        "for",
+        "to",
+        "with"
+      ],
+      "answerIndex": 2,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G017",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "They warned us ___ driving during the storm.",
+      "options": [
+        "about",
+        "to",
+        "against",
+        "for"
+      ],
+      "answerIndex": 2,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G018",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The teacher encouraged students to participate ___ the discussion.",
+      "options": [
+        "on",
+        "in",
+        "for",
+        "to"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G019",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "I was surprised ___ how quickly the results were published.",
+      "options": [
+        "at",
+        "by",
+        "with",
+        "for"
+      ],
+      "answerIndex": 1,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G020",
+      "section": "grammar",
+      "difficulty": 2,
+      "prompt": "The researcher specialized ___ cognitive psychology.",
+      "options": [
+        "at",
+        "for",
+        "on",
+        "in"
+      ],
+      "answerIndex": 3,
+      "skill": "Prepositions"
+    },
+    {
+      "id": "G021",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "You should ___ a decision after considering all the options.",
+      "options": [
+        "give",
+        "make",
+        "take",
+        "do"
+      ],
+      "answerIndex": 1,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G022",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The scientist will ___ an experiment to test the hypothesis.",
+      "options": [
+        "contain",
+        "consume",
+        "control",
+        "conduct"
+      ],
+      "answerIndex": 3,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G023",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Please ___ attention to the instructions before you start.",
+      "options": [
+        "make",
+        "give",
+        "take",
+        "pay"
+      ],
+      "answerIndex": 3,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G024",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "They finally ___ a conclusion based on the evidence.",
+      "options": [
+        "took",
+        "caught",
+        "reached",
+        "made"
+      ],
+      "answerIndex": 2,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G025",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "We need to ___ an appointment with the advisor.",
+      "options": [
+        "make",
+        "create",
+        "do",
+        "take"
+      ],
+      "answerIndex": 0,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G026",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The team must ___ a deadline for the project.",
+      "options": [
+        "reach",
+        "catch",
+        "hit",
+        "meet"
+      ],
+      "answerIndex": 3,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G027",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The report ___ a clear distinction between facts and opinions.",
+      "options": [
+        "drives",
+        "drags",
+        "drops",
+        "draws"
+      ],
+      "answerIndex": 3,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G028",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He refused to ___ responsibility for the mistake.",
+      "options": [
+        "make",
+        "take",
+        "do",
+        "give"
+      ],
+      "answerIndex": 1,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G029",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The new policy may ___ an impact on small businesses.",
+      "options": [
+        "make",
+        "have",
+        "do",
+        "take"
+      ],
+      "answerIndex": 1,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G030",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "She tried to ___ a complaint, but no one listened.",
+      "options": [
+        "fill",
+        "find",
+        "file",
+        "feel"
+      ],
+      "answerIndex": 2,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G031",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The company plans to ___ costs without reducing quality.",
+      "options": [
+        "break",
+        "cut",
+        "slice",
+        "tear"
+      ],
+      "answerIndex": 1,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G032",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "They ___ progress faster when they practice daily.",
+      "options": [
+        "make",
+        "do",
+        "give",
+        "take"
+      ],
+      "answerIndex": 0,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G033",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The lecture will ___ place in the main hall.",
+      "options": [
+        "take",
+        "do",
+        "give",
+        "make"
+      ],
+      "answerIndex": 0,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G034",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The speaker ___ an interesting point about motivation.",
+      "options": [
+        "got",
+        "did",
+        "made",
+        "took"
+      ],
+      "answerIndex": 2,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G035",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Students should ___ notes during the listening section.",
+      "options": [
+        "put",
+        "make",
+        "take",
+        "do"
+      ],
+      "answerIndex": 2,
+      "skill": "Collocations"
+    },
+    {
+      "id": "G036",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He admitted ___ the data to match his expectations.",
+      "options": [
+        "change",
+        "to change",
+        "changed",
+        "changing"
+      ],
+      "answerIndex": 3,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G037",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "They avoided ___ about the issue in public.",
+      "options": [
+        "to talk",
+        "talked",
+        "talk",
+        "talking"
+      ],
+      "answerIndex": 3,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G038",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "She promised ___ me as soon as she arrived.",
+      "options": [
+        "called",
+        "to call",
+        "call",
+        "calling"
+      ],
+      "answerIndex": 1,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G039",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "I can't afford ___ another mistake.",
+      "options": [
+        "making",
+        "made",
+        "make",
+        "to make"
+      ],
+      "answerIndex": 3,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G040",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "We considered ___ the meeting to next week.",
+      "options": [
+        "postponing",
+        "postpone",
+        "postponed",
+        "to postpone"
+      ],
+      "answerIndex": 0,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G041",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "They decided ___ early to avoid traffic.",
+      "options": [
+        "left",
+        "leave",
+        "leaving",
+        "to leave"
+      ],
+      "answerIndex": 3,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G042",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He enjoys ___ challenging puzzles in his free time.",
+      "options": [
+        "to solve",
+        "solve",
+        "solving",
+        "solved"
+      ],
+      "answerIndex": 2,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G043",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "She managed ___ the problem without any help.",
+      "options": [
+        "solved",
+        "solve",
+        "to solve",
+        "solving"
+      ],
+      "answerIndex": 2,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G044",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "I regret ___ you that your application was rejected.",
+      "options": [
+        "inform",
+        "informing",
+        "informed",
+        "to inform"
+      ],
+      "answerIndex": 3,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G045",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "I will never forget ___ the first time I traveled abroad.",
+      "options": [
+        "meeting",
+        "to meet",
+        "meet",
+        "met"
+      ],
+      "answerIndex": 0,
+      "skill": "Verb Patterns"
+    },
+    {
+      "id": "G046",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "By the time the lecture started, the students ___ their seats.",
+      "options": [
+        "were taking",
+        "had taken",
+        "have taken",
+        "took"
+      ],
+      "answerIndex": 1,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G047",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "I ___ in this city since I was a child.",
+      "options": [
+        "had lived",
+        "lived",
+        "have lived",
+        "am living"
+      ],
+      "answerIndex": 2,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G048",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If you ___ earlier, you would have caught the bus.",
+      "options": [
+        "have left",
+        "would leave",
+        "had left",
+        "left"
+      ],
+      "answerIndex": 2,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G049",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "She ___ her keys, so she couldn't open the door.",
+      "options": [
+        "lost",
+        "had lost",
+        "was losing",
+        "has lost"
+      ],
+      "answerIndex": 1,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G050",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "While he ___ the report, his computer suddenly crashed.",
+      "options": [
+        "was writing",
+        "had written",
+        "wrote",
+        "writes"
+      ],
+      "answerIndex": 0,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G051",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The company ___ a new policy last month.",
+      "options": [
+        "has introduced",
+        "introduced",
+        "introduces",
+        "had introduced"
+      ],
+      "answerIndex": 1,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G052",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "Look! The sun ___ behind the mountains.",
+      "options": [
+        "is setting",
+        "sets",
+        "set",
+        "has set"
+      ],
+      "answerIndex": 0,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G053",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "I didn't realize I ___ the wrong file until it was too late.",
+      "options": [
+        "was attaching",
+        "attached",
+        "have attached",
+        "had attached"
+      ],
+      "answerIndex": 3,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G054",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "They ___ three meetings so far this week.",
+      "options": [
+        "are having",
+        "have had",
+        "had had",
+        "had"
+      ],
+      "answerIndex": 1,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G055",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "When I called, she ___ a shower.",
+      "options": [
+        "has taken",
+        "took",
+        "was taking",
+        "had taken"
+      ],
+      "answerIndex": 2,
+      "skill": "Tenses"
+    },
+    {
+      "id": "G056",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If it ___ tomorrow, the match will be cancelled.",
+      "options": [
+        "rain",
+        "rained",
+        "rains",
+        "will rain"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G057",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If I ___ you, I would reconsider that choice.",
+      "options": [
+        "were",
+        "be",
+        "am",
+        "was"
+      ],
+      "answerIndex": 0,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G058",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "Had she known about the traffic, she ___ earlier.",
+      "options": [
+        "would leave",
+        "will leave",
+        "would have left",
+        "left"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G059",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "Unless you ___ the instructions, you might lose points.",
+      "options": [
+        "are following",
+        "will follow",
+        "followed",
+        "follow"
+      ],
+      "answerIndex": 3,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G060",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If he ___ harder, he could have passed the exam.",
+      "options": [
+        "has studied",
+        "studied",
+        "had studied",
+        "would study"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G061",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If you had told me, I ___ able to help.",
+      "options": [
+        "will be",
+        "was",
+        "might have been",
+        "am"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G062",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If they ___ the budget, the project would fail.",
+      "options": [
+        "exceed",
+        "will exceed",
+        "exceeded",
+        "are exceeding"
+      ],
+      "answerIndex": 0,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G063",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If the data ___ reliable, the conclusion would change.",
+      "options": [
+        "is not",
+        "will not be",
+        "were not",
+        "was not"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G064",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If she ___ more confident, she would speak up.",
+      "options": [
+        "had been",
+        "is",
+        "were",
+        "was"
+      ],
+      "answerIndex": 2,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G065",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "If the meeting ___ earlier, we could catch the last train.",
+      "options": [
+        "has ended",
+        "ends",
+        "will end",
+        "ended"
+      ],
+      "answerIndex": 1,
+      "skill": "Conditionals"
+    },
+    {
+      "id": "G066",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "You ___ have called me; I was worried.",
+      "options": [
+        "should",
+        "might",
+        "can",
+        "must"
+      ],
+      "answerIndex": 0,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G067",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "He ___ have missed the bus; he's usually on time.",
+      "options": [
+        "must",
+        "might",
+        "can",
+        "should"
+      ],
+      "answerIndex": 1,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G068",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "They ___ have left already; the lights are off.",
+      "options": [
+        "must",
+        "might",
+        "should",
+        "can"
+      ],
+      "answerIndex": 0,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G069",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "You ___ have said that—it was rude.",
+      "options": [
+        "shouldn't",
+        "mustn't",
+        "can't",
+        "mightn't"
+      ],
+      "answerIndex": 0,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G070",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "She ___ have been asleep; she didn't answer the phone.",
+      "options": [
+        "may",
+        "should",
+        "can",
+        "must"
+      ],
+      "answerIndex": 0,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G071",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "I ___ have remembered his name, but I didn't.",
+      "options": [
+        "might",
+        "should",
+        "could",
+        "must"
+      ],
+      "answerIndex": 1,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G072",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The package ___ have arrived by now; it was shipped a week ago.",
+      "options": [
+        "can",
+        "must",
+        "might",
+        "should"
+      ],
+      "answerIndex": 3,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G073",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "He ___ have taken my notebook by mistake.",
+      "options": [
+        "should",
+        "can",
+        "must",
+        "could"
+      ],
+      "answerIndex": 3,
+      "skill": "Modal Verbs"
+    },
+    {
+      "id": "G074",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The results ___ in a leading journal last year.",
+      "options": [
+        "are publishing",
+        "have publishing",
+        "published",
+        "were published"
+      ],
+      "answerIndex": 3,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G075",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The documents ___ by the assistant before the meeting.",
+      "options": [
+        "prepared",
+        "have been prepared",
+        "had been prepared",
+        "were preparing"
+      ],
+      "answerIndex": 2,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G076",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The new bridge ___ next month.",
+      "options": [
+        "will open",
+        "will be opened",
+        "is opening",
+        "opens"
+      ],
+      "answerIndex": 1,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G077",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "This problem ___ easily if we cooperate.",
+      "options": [
+        "could solved",
+        "can be solved",
+        "can solve",
+        "is solving"
+      ],
+      "answerIndex": 1,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G078",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The car ___ yesterday, so I had to take a taxi.",
+      "options": [
+        "has been repaired",
+        "was repaired",
+        "was being repaired",
+        "is being repaired"
+      ],
+      "answerIndex": 2,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G079",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "She had her hair ___ before the interview.",
+      "options": [
+        "cut",
+        "cuts",
+        "cutting",
+        "to cut"
+      ],
+      "answerIndex": 0,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G080",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "We are getting the house ___ this weekend.",
+      "options": [
+        "paint",
+        "to paint",
+        "painting",
+        "painted"
+      ],
+      "answerIndex": 3,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G081",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The report needs ___ before it is submitted.",
+      "options": [
+        "to be revised",
+        "to revise",
+        "be revised",
+        "revising"
+      ],
+      "answerIndex": 0,
+      "skill": "Passive/Causative"
+    },
+    {
+      "id": "G082",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The professor, ___ lecture was inspiring, encouraged students to read more.",
+      "options": [
+        "that",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answerIndex": 3,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G083",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "This is the book ___ I told you about.",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "answerIndex": 0,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G084",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Students ___ submit late work will lose points.",
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "which"
+      ],
+      "answerIndex": 1,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G085",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The company hired a consultant ___ specializes in cybersecurity.",
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "whom"
+      ],
+      "answerIndex": 2,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G086",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The man ___ I met yesterday is the new manager.",
+      "options": [
+        "whose",
+        "whom",
+        "what",
+        "which"
+      ],
+      "answerIndex": 1,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G087",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The data, ___ were collected over two years, show a clear trend.",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "answerIndex": 3,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G088",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Anyone ___ wants to join must register online.",
+      "options": [
+        "whom",
+        "whose",
+        "which",
+        "who"
+      ],
+      "answerIndex": 3,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G089",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The building ___ we held the conference has been renovated.",
+      "options": [
+        "when",
+        "who",
+        "where",
+        "which"
+      ],
+      "answerIndex": 2,
+      "skill": "Relative Clauses"
+    },
+    {
+      "id": "G090",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Not only ___ late, but he also forgot the documents.",
+      "options": [
+        "did he",
+        "was he",
+        "he was",
+        "he did"
+      ],
+      "answerIndex": 1,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G091",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Hardly ___ the speech when the audience started applauding.",
+      "options": [
+        "did she finish",
+        "had she finished",
+        "has she finished",
+        "she finished"
+      ],
+      "answerIndex": 1,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G092",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "The manager asked us to be careful, ___, and professional.",
+      "options": [
+        "efficiently",
+        "efficiency",
+        "efficients",
+        "efficient"
+      ],
+      "answerIndex": 3,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G093",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "She likes ___, hiking, and to swim on weekends.",
+      "options": [
+        "cycled",
+        "cycle",
+        "to cycle",
+        "cycling"
+      ],
+      "answerIndex": 3,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G094",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "The report was written ___, clearly, and with strong evidence.",
+      "options": [
+        "carefulness",
+        "carefully",
+        "careful",
+        "more careful"
+      ],
+      "answerIndex": 1,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G095",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Only after the experiment ___ the researchers realize the error.",
+      "options": [
+        "have",
+        "do",
+        "did",
+        "had"
+      ],
+      "answerIndex": 2,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G096",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "The book, ___ on the desk, belongs to me.",
+      "options": [
+        "laid",
+        "lay",
+        "lie",
+        "lying"
+      ],
+      "answerIndex": 3,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G097",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "___ the heavy rain, the event continued as planned.",
+      "options": [
+        "Despite",
+        "Because",
+        "Since",
+        "Although"
+      ],
+      "answerIndex": 0,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G098",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "The solution is not as simple as it ___ at first.",
+      "options": [
+        "seemed",
+        "has seemed",
+        "was seeming",
+        "seems"
+      ],
+      "answerIndex": 0,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G099",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "The more you practice, the ___ you become.",
+      "options": [
+        "best",
+        "good",
+        "better",
+        "well"
+      ],
+      "answerIndex": 2,
+      "skill": "Sentence Structure"
+    },
+    {
+      "id": "G100",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "She has ___ MBA from ___ university in the UK.",
+      "options": [
+        "an / an",
+        "a / a",
+        "a / an",
+        "an / a"
+      ],
+      "answerIndex": 3,
+      "skill": "Articles"
+    },
+    {
+      "id": "G101",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "___ information you provided was extremely helpful.",
+      "options": [
+        "An",
+        "A",
+        "Ø (no article)",
+        "The"
+      ],
+      "answerIndex": 3,
+      "skill": "Articles"
+    },
+    {
+      "id": "G102",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "He plays ___ piano, but he doesn't play ___ sports.",
+      "options": [
+        "the / the",
+        "Ø / Ø",
+        "the / Ø",
+        "Ø / the"
+      ],
+      "answerIndex": 2,
+      "skill": "Articles"
+    },
+    {
+      "id": "G103",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "___ number of students in the class has increased.",
+      "options": [
+        "The",
+        "Ø (no article)",
+        "A",
+        "An"
+      ],
+      "answerIndex": 0,
+      "skill": "Articles"
+    },
+    {
+      "id": "G104",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "She made ___ effort to improve her vocabulary.",
+      "options": [
+        "an",
+        "the",
+        "Ø (no article)",
+        "a"
+      ],
+      "answerIndex": 0,
+      "skill": "Articles"
+    },
+    {
+      "id": "G105",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "I need ___ advice, not ___ criticism.",
+      "options": [
+        "a / Ø",
+        "the / a",
+        "an / the",
+        "Ø / Ø"
+      ],
+      "answerIndex": 3,
+      "skill": "Articles"
+    },
+    {
+      "id": "G106",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "This is ___ most useful strategy I've learned.",
+      "options": [
+        "the",
+        "Ø (no article)",
+        "a",
+        "an"
+      ],
+      "answerIndex": 0,
+      "skill": "Articles"
+    },
+    {
+      "id": "G107",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "He is ___ honest person, and ___ honesty matters.",
+      "options": [
+        "the / an",
+        "an / Ø",
+        "Ø / the",
+        "a / the"
+      ],
+      "answerIndex": 1,
+      "skill": "Articles"
+    },
+    {
+      "id": "G108",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The evidence strongly ___ the theory proposed in the paper.",
+      "options": [
+        "supports",
+        "surprises",
+        "supposes",
+        "supplies"
+      ],
+      "answerIndex": 0,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G109",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The researcher attempted to ___ the variables to ensure a fair comparison.",
+      "options": [
+        "consume",
+        "confuse",
+        "control",
+        "compose"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G110",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The findings were ___ with earlier studies on the same topic.",
+      "options": [
+        "continuous",
+        "consistent",
+        "convenient",
+        "constant"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G111",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The new policy aims to ___ pollution in urban areas.",
+      "options": [
+        "revise",
+        "reduce",
+        "remove",
+        "release"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G112",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The author uses an example to ___ how the concept works in practice.",
+      "options": [
+        "interrupt",
+        "illustrate",
+        "isolate",
+        "ignore"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G113",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The report provides a ___ analysis of the causes of the problem.",
+      "options": [
+        "through",
+        "thorough",
+        "though",
+        "thread"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G114",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The results were not ___; therefore, they could have happened by chance.",
+      "options": [
+        "simple",
+        "significant",
+        "specific",
+        "similar"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G115",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The committee reached a ___ to delay the decision until more data were available.",
+      "options": [
+        "consequence",
+        "consensus",
+        "concept",
+        "concern"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G116",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The article argues that social media can ___ public opinion rapidly.",
+      "options": [
+        "influence",
+        "invest",
+        "inflate",
+        "inform"
+      ],
+      "answerIndex": 0,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G117",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The company plans to ___ a new training program next semester.",
+      "options": [
+        "impress",
+        "implement",
+        "import",
+        "imply"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G118",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The scientist questioned the ___ of the measurement method.",
+      "options": [
+        "ability",
+        "authority",
+        "accuracy",
+        "activity"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G119",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The lecture was ___, covering multiple perspectives on the issue.",
+      "options": [
+        "complicated",
+        "competitive",
+        "comprehensive",
+        "compact"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G120",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The change was ___, but over time it transformed the entire system.",
+      "options": [
+        "gross",
+        "grateful",
+        "graphic",
+        "gradual"
+      ],
+      "answerIndex": 3,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G121",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The proposal was rejected because it lacked ___ evidence.",
+      "options": [
+        "surplus",
+        "subtle",
+        "sophisticated",
+        "sufficient"
+      ],
+      "answerIndex": 3,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G122",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The team had to ___ the plan when resources became limited.",
+      "options": [
+        "replace",
+        "revise",
+        "review",
+        "reveal"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G123",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The conclusion is based on ___ data collected from various sources.",
+      "options": [
+        "relaxed",
+        "remote",
+        "reliable",
+        "related"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G124",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The study attempts to ___ a link between diet and mood.",
+      "options": [
+        "escape",
+        "estimate",
+        "establish",
+        "explain"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G125",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The speaker made a ___ between two similar concepts.",
+      "options": [
+        "distance",
+        "destination",
+        "distinction",
+        "distribution"
+      ],
+      "answerIndex": 2,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G126",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The process is ___ and requires several steps.",
+      "options": [
+        "compact",
+        "complex",
+        "complete",
+        "common"
+      ],
+      "answerIndex": 1,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G127",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The results may ___ future research in this field.",
+      "options": [
+        "guard",
+        "gather",
+        "grade",
+        "guide"
+      ],
+      "answerIndex": 3,
+      "skill": "Vocabulary"
+    },
+    {
+      "id": "G128",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The meeting was ___ until next Monday due to an emergency.",
+      "options": [
+        "put on",
+        "put off",
+        "put in",
+        "put up"
+      ],
+      "answerIndex": 1,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G129",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "She ___ the offer because it didn't meet her expectations.",
+      "options": [
+        "turned into",
+        "turned on",
+        "turned down",
+        "turned up"
+      ],
+      "answerIndex": 2,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G130",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He tried to ___ the noise and focus on his work.",
+      "options": [
+        "break out",
+        "build out",
+        "bring out",
+        "block out"
+      ],
+      "answerIndex": 3,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G131",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Please ___ the form and submit it by email.",
+      "options": [
+        "fill up",
+        "fill in",
+        "fill on",
+        "fill out"
+      ],
+      "answerIndex": 3,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G132",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The students ___ with a new idea for the project.",
+      "options": [
+        "came over",
+        "came down",
+        "came across",
+        "came up"
+      ],
+      "answerIndex": 3,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G133",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "We need to ___ the main points before the exam.",
+      "options": [
+        "go in",
+        "go out",
+        "go away",
+        "go over"
+      ],
+      "answerIndex": 3,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G134",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The company will ___ a new policy next month.",
+      "options": [
+        "round out",
+        "run out",
+        "roll out",
+        "rule out"
+      ],
+      "answerIndex": 2,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G135",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "She couldn't ___ what the speaker said because of the accent.",
+      "options": [
+        "make off",
+        "make for",
+        "make out",
+        "make up"
+      ],
+      "answerIndex": 2,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G136",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He ___ the topic carefully to avoid misunderstandings.",
+      "options": [
+        "brought about",
+        "brought down",
+        "brought up",
+        "brought off"
+      ],
+      "answerIndex": 2,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G137",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The teacher asked us to ___ the assignment by Friday.",
+      "options": [
+        "hand over",
+        "hand in",
+        "hand off",
+        "hand out"
+      ],
+      "answerIndex": 1,
+      "skill": "Phrasal Verbs"
+    },
+    {
+      "id": "G138",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "There are ___ students in the library today than usual.",
+      "options": [
+        "less",
+        "few",
+        "fewer",
+        "little"
+      ],
+      "answerIndex": 2,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G139",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "We have ___ information to make a decision yet.",
+      "options": [
+        "no more",
+        "not enough",
+        "not many",
+        "no much"
+      ],
+      "answerIndex": 1,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G140",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "Only a ___ of the applicants were selected.",
+      "options": [
+        "few",
+        "much",
+        "little",
+        "many"
+      ],
+      "answerIndex": 0,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G141",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "He has ___ experience in teaching, so he needs training.",
+      "options": [
+        "several",
+        "many",
+        "little",
+        "few"
+      ],
+      "answerIndex": 2,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G142",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "___ of the two options is ideal; we need a third one.",
+      "options": [
+        "Each",
+        "Both",
+        "Neither",
+        "Either"
+      ],
+      "answerIndex": 2,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G143",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "___ the answers were correct, so the score was high.",
+      "options": [
+        "Much of",
+        "Many",
+        "Less of",
+        "Most of"
+      ],
+      "answerIndex": 3,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G144",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "I have ___ seen such a well-organized plan.",
+      "options": [
+        "nearly",
+        "really",
+        "hardly",
+        "rarely"
+      ],
+      "answerIndex": 3,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G145",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "___ students who practice daily improve faster.",
+      "options": [
+        "This",
+        "That",
+        "Those",
+        "It"
+      ],
+      "answerIndex": 2,
+      "skill": "Quantifiers/Determiners"
+    },
+    {
+      "id": "G146",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "This strategy is ___ effective than memorizing randomly.",
+      "options": [
+        "too much",
+        "very much",
+        "far more",
+        "so many"
+      ],
+      "answerIndex": 2,
+      "skill": "Comparatives/Adverbs"
+    },
+    {
+      "id": "G147",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "He speaks English ___ than he writes it.",
+      "options": [
+        "more fluent",
+        "more fluently",
+        "fluent",
+        "most fluently"
+      ],
+      "answerIndex": 1,
+      "skill": "Comparatives/Adverbs"
+    },
+    {
+      "id": "G148",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The test became ___ difficult as time passed.",
+      "options": [
+        "increased",
+        "increasingly",
+        "increase",
+        "increases"
+      ],
+      "answerIndex": 1,
+      "skill": "Comparatives/Adverbs"
+    },
+    {
+      "id": "G149",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "Of the three, the second passage was the ___ to understand.",
+      "options": [
+        "easy",
+        "most easy",
+        "easiest",
+        "easier"
+      ],
+      "answerIndex": 2,
+      "skill": "Comparatives/Adverbs"
+    },
+    {
+      "id": "G150",
+      "section": "grammar",
+      "difficulty": 3,
+      "prompt": "The teacher explained the concept ___ so everyone could follow.",
+      "options": [
+        "clarity",
+        "clear",
+        "clearest",
+        "clearly"
+      ],
+      "answerIndex": 3,
+      "skill": "Comparatives/Adverbs"
+    },
+    {
+      "id": "G151",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "Her ___ in the interview impressed the panel.",
+      "options": [
+        "confidential",
+        "confide",
+        "confident",
+        "confidence"
+      ],
+      "answerIndex": 3,
+      "skill": "Word Formation"
+    },
+    {
+      "id": "G152",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The speaker's argument lacked ___ and clear examples.",
+      "options": [
+        "clear",
+        "clarify",
+        "clearly",
+        "clarity"
+      ],
+      "answerIndex": 3,
+      "skill": "Word Formation"
+    },
+    {
+      "id": "G153",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "The plan was rejected due to its ___ cost.",
+      "options": [
+        "exceed",
+        "excess",
+        "excessively",
+        "excessive"
+      ],
+      "answerIndex": 3,
+      "skill": "Word Formation"
+    },
+    {
+      "id": "G154",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "They questioned the ___ of the source.",
+      "options": [
+        "reliable",
+        "rely",
+        "relieved",
+        "reliability"
+      ],
+      "answerIndex": 3,
+      "skill": "Word Formation"
+    },
+    {
+      "id": "G155",
+      "section": "grammar",
+      "difficulty": 4,
+      "prompt": "His ___ to criticism helped him improve quickly.",
+      "options": [
+        "opened",
+        "openly",
+        "opening",
+        "openness"
+      ],
+      "answerIndex": 3,
+      "skill": "Word Formation"
+    },
+    {
+      "id": "G156",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Choose the part that contains an error:\n\nA) Neither of the solutions\nB) were acceptable\nC) to the committee\nD) yesterday",
+      "options": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "answerIndex": 1,
+      "skill": "Error Spotting"
+    },
+    {
+      "id": "G157",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Choose the part that contains an error:\n\nA) She suggested\nB) to take\nC) the earlier train\nD) to avoid traffic",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answerIndex": 2,
+      "skill": "Error Spotting"
+    },
+    {
+      "id": "G158",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Choose the part that contains an error:\n\nA) The number of students\nB) have increased\nC) since last semester\nD) dramatically",
+      "options": [
+        "C",
+        "D",
+        "A",
+        "B"
+      ],
+      "answerIndex": 3,
+      "skill": "Error Spotting"
+    },
+    {
+      "id": "G159",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Choose the part that contains an error:\n\nA) I look forward\nB) to meet\nC) you next week\nD) in Riyadh",
+      "options": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "answerIndex": 1,
+      "skill": "Error Spotting"
+    },
+    {
+      "id": "G160",
+      "section": "grammar",
+      "difficulty": 5,
+      "prompt": "Choose the part that contains an error:\n\nA) Hardly had he arrived\nB) when\nC) the meeting started\nD) on time",
+      "options": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "answerIndex": 0,
+      "skill": "Error Spotting"
+    },
+    {
+      "id": "R001",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is the passage mainly about?",
+      "options": [
+        "Why rural areas are becoming warmer than cities",
+        "How cities can reduce traffic congestion",
+        "Causes and solutions for higher temperatures in cities",
+        "The history of urban architecture"
+      ],
+      "answerIndex": 2,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R002",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which factor is mentioned as contributing to heat being trapped in cities?",
+      "options": [
+        "Underground rivers",
+        "Tall buildings reducing airflow",
+        "Frequent rainfall",
+        "Mountain winds"
+      ],
+      "answerIndex": 1,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R003",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “mitigate” in the passage is closest in meaning to:",
+      "options": [
+        "worsen",
+        "measure",
+        "reduce",
+        "predict"
+      ],
+      "answerIndex": 2,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R004",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "According to the passage, why might some neighborhoods suffer more from extreme heat?",
+      "options": [
+        "They have fewer reflective roofs",
+        "They receive more sunlight due to latitude",
+        "They have less green space and fewer resources",
+        "They are located closer to rivers"
+      ],
+      "answerIndex": 2,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R005",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which solution is NOT mentioned in the passage?",
+      "options": [
+        "Planting trees",
+        "Installing cool roofs",
+        "Building higher skyscrapers",
+        "Using reflective surfaces"
+      ],
+      "answerIndex": 2,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R006",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The author suggests that solutions require equitable distribution mainly because:",
+      "options": [
+        "Heat affects only wealthy neighborhoods",
+        "Resources for cooling are unlimited",
+        "Some communities are more vulnerable and have fewer protections",
+        "Urban planning is always immediate"
+      ],
+      "answerIndex": 2,
+      "passage": "Urban areas often experience higher temperatures than surrounding rural regions, a phenomenon known as the “urban heat island” effect. Dark surfaces such as asphalt absorb and re‑emit heat, while tall buildings reduce airflow and trap warm air. As cities expand, this effect can increase energy demand for cooling and intensify heat‑related health risks. Researchers have found that planting trees and installing reflective or “cool” roofs can mitigate these impacts by providing shade and reflecting sunlight. However, such solutions require long‑term planning and equitable distribution; neighborhoods with fewer resources tend to have less green space and therefore experience the most severe heat."
+    },
+    {
+      "id": "R007",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which statement best summarizes the passage?",
+      "options": [
+        "Cramming is the fastest way to learn complex subjects",
+        "Time management strategies can improve learning more than studying longer",
+        "Interleaving should be avoided because it is confusing",
+        "Students learn best when they repeat the same problem type for hours"
+      ],
+      "answerIndex": 1,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R008",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Spaced repetition is said to help because it:",
+      "options": [
+        "reduces the total time needed to study to zero",
+        "allows the brain to consolidate information",
+        "prevents students from making mistakes",
+        "eliminates the need for practice tests"
+      ],
+      "answerIndex": 1,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R009",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Interleaving improves retention mainly by:",
+      "options": [
+        "forcing learners to recall and apply concepts in different contexts",
+        "making every session shorter than five minutes",
+        "focusing only on the easiest problems",
+        "allowing students to avoid unfamiliar questions"
+      ],
+      "answerIndex": 0,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R010",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The phrase “may feel slower at first” implies that the strategies:",
+      "options": [
+        "are ineffective in the long run",
+        "require patience before benefits become obvious",
+        "are designed only for advanced students",
+        "work only for memorization tasks"
+      ],
+      "answerIndex": 1,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R011",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "According to the passage, these strategies are helpful especially when:",
+      "options": [
+        "students memorize exactly the same questions",
+        "an exam includes unfamiliar questions",
+        "students have unlimited time during exams",
+        "teachers give no feedback"
+      ],
+      "answerIndex": 1,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R012",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s tone is best described as:",
+      "options": [
+        "critical of all study methods",
+        "supportive and research‑based",
+        "humorous and sarcastic",
+        "uncertain and hesitant"
+      ],
+      "answerIndex": 1,
+      "passage": "Many students believe that studying longer automatically leads to better results. Yet research on learning suggests that the *timing* of practice can be as important as the total number of hours. Spaced repetition—reviewing material in shorter sessions over several days—helps the brain consolidate information more effectively than cramming. Interleaving, or mixing different types of problems in one session, also improves long‑term retention because it forces learners to retrieve and apply concepts in varied contexts. Although these strategies may feel slower at first, they often produce higher performance when students face unfamiliar questions on an exam."
+    },
+    {
+      "id": "R013",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is the main challenge discussed in the passage?",
+      "options": [
+        "Training more engineers to build coal plants",
+        "Making renewable energy compatible with traditional power grids",
+        "Reducing the cost of gas pipelines",
+        "Eliminating weather variability"
+      ],
+      "answerIndex": 1,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R014",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Why does renewable energy introduce variability?",
+      "options": [
+        "Because it depends on weather conditions",
+        "Because it is produced only at night",
+        "Because it requires more workers",
+        "Because coal plants are shutting down"
+      ],
+      "answerIndex": 0,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R015",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Which of the following is an example of demand response?",
+      "options": [
+        "Building a new battery factory",
+        "Encouraging consumers to use electricity off‑peak",
+        "Replacing solar panels every year",
+        "Increasing electricity use during peak hours"
+      ],
+      "answerIndex": 1,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R016",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What does the passage suggest batteries can do?",
+      "options": [
+        "Stop the wind from changing",
+        "Store excess solar power and release it later",
+        "Increase sunlight intensity",
+        "Replace all power lines"
+      ],
+      "answerIndex": 1,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R017",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “reliability” in context refers to:",
+      "options": [
+        "the price of electricity",
+        "the ability of the grid to supply power consistently",
+        "the speed of electric cars",
+        "the design of solar panels"
+      ],
+      "answerIndex": 1,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R018",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What remains a major challenge according to the passage?",
+      "options": [
+        "Coordinating policies and upgrading infrastructure",
+        "Finding new sources of coal",
+        "Reducing consumer education",
+        "Decreasing demand response participation"
+      ],
+      "answerIndex": 0,
+      "passage": "Modern electrical grids were built for predictable power sources such as coal and gas plants. Renewable energy, especially wind and solar, introduces variability because output depends on weather conditions. To maintain reliability, grid operators increasingly rely on energy storage, flexible demand, and smarter forecasting. Batteries can store excess solar power generated at midday and release it in the evening, while demand‑response programs encourage consumers to shift electricity use to off‑peak hours. Although these tools can reduce instability, upgrading infrastructure and coordinating policies across regions remain major challenges."
+    },
+    {
+      "id": "R019",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly emphasizes that privacy policies:",
+      "options": [
+        "are always short and easy to read",
+        "often contain important information that users overlook",
+        "prevent all data from being shared",
+        "are written only for lawyers"
+      ],
+      "answerIndex": 1,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R020",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Why do many users ignore privacy policies?",
+      "options": [
+        "They are too expensive to access",
+        "They are lengthy and filled with legal language",
+        "They are available only offline",
+        "They appear after users uninstall apps"
+      ],
+      "answerIndex": 1,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R021",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "What is one consequence of ignoring privacy policies?",
+      "options": [
+        "Users may grant permission for sensitive data to be used or sold",
+        "Apps stop working immediately",
+        "Users receive fewer updates",
+        "Passwords become automatically stronger"
+      ],
+      "answerIndex": 0,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R022",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which improvement do experts suggest?",
+      "options": [
+        "Removing all privacy settings",
+        "Making policies longer to be more detailed",
+        "Using standardized summaries and clearer design",
+        "Allowing companies to share more data"
+      ],
+      "answerIndex": 2,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R023",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “meaningful” is closest in meaning to:",
+      "options": [
+        "official",
+        "effective",
+        "expensive",
+        "rare"
+      ],
+      "answerIndex": 1,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R024",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What action does the passage recommend for users?",
+      "options": [
+        "Disable the internet completely",
+        "Review privacy settings and limit permissions",
+        "Share more data to improve services",
+        "Avoid using any apps"
+      ],
+      "answerIndex": 1,
+      "passage": "Privacy policies are often presented as a quick click before using an app, but they describe how personal data may be collected, shared, and stored. Because these documents are lengthy and filled with legal language, many users ignore them. As a result, they may unknowingly grant permission for sensitive information—such as location history or browsing behavior—to be used for targeted advertising or sold to third parties. Some experts argue that clearer design, standardized summaries, and stronger regulations could make consent more meaningful. Until then, users who want control should review privacy settings and limit permissions whenever possible."
+    },
+    {
+      "id": "R025",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is the passage mainly about?",
+      "options": [
+        "The benefits of synthetic clothing",
+        "Sources and concerns related to microplastics",
+        "How to increase plastic production",
+        "Why oceans are becoming less salty"
+      ],
+      "answerIndex": 1,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R026",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Microplastics can enter the environment from:",
+      "options": [
+        "only ocean storms",
+        "the breakdown of larger plastics and clothing fibers",
+        "volcanic eruptions",
+        "metal recycling"
+      ],
+      "answerIndex": 1,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R027",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The phrase “move up the food chain” suggests that microplastics:",
+      "options": [
+        "disappear inside the ocean",
+        "can be transferred between organisms",
+        "become larger when eaten",
+        "turn into nutrients"
+      ],
+      "answerIndex": 1,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R028",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is still uncertain according to the passage?",
+      "options": [
+        "Whether plastic exists in the ocean",
+        "The long‑term health effects on humans",
+        "Whether washing clothes releases fibers",
+        "Whether filtration is possible"
+      ],
+      "answerIndex": 1,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R029",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Which strategy is mentioned to reduce microplastic pollution?",
+      "options": [
+        "Using more single‑use plastics",
+        "Improving wastewater filtration",
+        "Increasing synthetic fiber production",
+        "Banning all marine organisms"
+      ],
+      "answerIndex": 1,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R030",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s purpose is primarily to:",
+      "options": [
+        "warn and inform about an emerging environmental issue",
+        "persuade readers to buy new clothing",
+        "describe a historical event",
+        "criticize scientific research methods"
+      ],
+      "answerIndex": 0,
+      "passage": "Microplastics—tiny fragments of plastic less than five millimeters long—have been found in oceans, soil, and even the air. They originate from the breakdown of larger plastic items as well as from synthetic clothing fibers released during washing. Because these particles are so small, they can be ingested by marine organisms and may move up the food chain. Scientists are still investigating the long‑term health effects on humans, but early studies suggest potential risks. Reducing single‑use plastics and improving wastewater filtration are among the strategies proposed to limit microplastic pollution."
+    },
+    {
+      "id": "R031",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage suggests that too many meetings can:",
+      "options": [
+        "increase deep work time",
+        "reduce time for complex thinking",
+        "eliminate the need for collaboration",
+        "make decisions easier"
+      ],
+      "answerIndex": 1,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R032",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which solution is NOT mentioned?",
+      "options": [
+        "Meeting‑free blocks",
+        "Clear agendas",
+        "Written updates",
+        "Mandatory attendance for everyone"
+      ],
+      "answerIndex": 3,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R033",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The phrase “seem safer” implies meetings are used to:",
+      "options": [
+        "avoid responsibility for decisions",
+        "increase employee salaries",
+        "replace written communication",
+        "reduce teamwork"
+      ],
+      "answerIndex": 0,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R034",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "According to the passage, the changes aim to:",
+      "options": [
+        "eliminate collaboration completely",
+        "protect focus and make discussions purposeful",
+        "increase the number of meetings",
+        "discourage thoughtful preparation"
+      ],
+      "answerIndex": 1,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R035",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Employees report higher satisfaction mainly because they:",
+      "options": [
+        "work fewer hours overall",
+        "regain control over their time",
+        "avoid all discussions",
+        "stop receiving updates"
+      ],
+      "answerIndex": 1,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R036",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s tone is best described as:",
+      "options": [
+        "pragmatic and solution‑oriented",
+        "angry and accusing",
+        "humorous and playful",
+        "mysterious and vague"
+      ],
+      "answerIndex": 0,
+      "passage": "In many workplaces, meetings multiply because they seem safer than making a decision alone. Yet an overloaded calendar can reduce deep work—the uninterrupted time needed for complex thinking. Some companies are experimenting with “meeting‑free” blocks, clear agendas, and rules that limit attendance to essential participants. Others encourage written updates instead of status meetings. These changes do not eliminate collaboration; rather, they protect focus and make discussions more purposeful. Employees often report higher satisfaction when they regain control over their time and can prepare thoughtfully for the meetings that remain."
+    },
+    {
+      "id": "R037",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is the passage mainly about?",
+      "options": [
+        "How to memorize without studying",
+        "The relationship between sleep and learning",
+        "Why naps are unnecessary",
+        "How neurons prevent sleep"
+      ],
+      "answerIndex": 1,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R038",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "According to the passage, sleep helps memory by:",
+      "options": [
+        "erasing short‑term traces",
+        "reactivating patterns linked to learning",
+        "stopping neuronal connections",
+        "making concentration less important"
+      ],
+      "answerIndex": 1,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R039",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What effect can lack of sleep have?",
+      "options": [
+        "Improved concentration",
+        "Better long‑term retention",
+        "Impaired concentration and reduced retention",
+        "No effect on learning"
+      ],
+      "answerIndex": 2,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R040",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “fragile” is closest in meaning to:",
+      "options": [
+        "strong",
+        "temporary",
+        "delicate",
+        "complex"
+      ],
+      "answerIndex": 2,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R041",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "What does the passage suggest about naps?",
+      "options": [
+        "They always replace a full night of sleep",
+        "They may support learning if they include deep sleep",
+        "They harm memory formation",
+        "They are useful only for athletes"
+      ],
+      "answerIndex": 1,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R042",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "For exam preparation, the passage implies students should:",
+      "options": [
+        "ignore sleep and focus only on practice tests",
+        "maintain a consistent sleep schedule",
+        "study only at night",
+        "take naps instead of sleeping"
+      ],
+      "answerIndex": 1,
+      "passage": "Sleep plays a crucial role in memory. During certain stages of sleep, the brain reactivates patterns associated with recent learning, strengthening connections between neurons. This process helps transform fragile short‑term traces into more stable long‑term memories. Lack of sleep can therefore impair concentration and make it harder to retain new information. Interestingly, brief naps may also support learning, especially when they include deep sleep. For students preparing for an exam, a consistent sleep schedule may be as important as the hours spent studying."
+    },
+    {
+      "id": "R043",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly argues that public transportation:",
+      "options": [
+        "is useful only for tourists",
+        "can influence city development and livability",
+        "always eliminates traffic entirely",
+        "is too expensive to build"
+      ],
+      "answerIndex": 1,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R044",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "According to the passage, well-designed transit can reduce:",
+      "options": [
+        "the need for walking paths",
+        "traffic congestion",
+        "population density",
+        "investment"
+      ],
+      "answerIndex": 1,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R045",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Why might commuters avoid public transit?",
+      "options": [
+        "Because it is always cheaper than cars",
+        "If routes are unreliable or unsafe",
+        "If payment methods are simple",
+        "If service is frequent"
+      ],
+      "answerIndex": 1,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R046",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which feature is mentioned as part of successful systems?",
+      "options": [
+        "Complex payment methods",
+        "Infrequent service",
+        "Integration between modes of travel",
+        "Dependence on private cars"
+      ],
+      "answerIndex": 2,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R047",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “livable” is closest in meaning to:",
+      "options": [
+        "comfortable to live in",
+        "dangerous",
+        "temporary",
+        "crowded"
+      ],
+      "answerIndex": 0,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R048",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author suggests that building effective transit requires:",
+      "options": [
+        "no investment",
+        "public trust and investment",
+        "only new roads",
+        "more private cars"
+      ],
+      "answerIndex": 1,
+      "passage": "Public transportation systems do more than move people from one place to another. When designed well, they shape how cities grow by encouraging dense neighborhoods and reducing dependence on private cars. This can lower traffic congestion and improve air quality. However, building effective transit requires investment and public trust. If routes are unreliable or unsafe, commuters will avoid them. Successful systems often combine frequent service with simple payment methods and integration between buses, trains, and walking paths. Over time, this can create cities that are both more efficient and more livable."
+    },
+    {
+      "id": "R049",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly discusses:",
+      "options": [
+        "How to cook healthy meals at home",
+        "Why nutrition labels can be confusing and how they might improve",
+        "The history of sugar production",
+        "Why serving sizes should be removed"
+      ],
+      "answerIndex": 1,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R050",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Serving sizes can be misleading because they:",
+      "options": [
+        "are always larger than what people eat",
+        "may be smaller than actual consumption",
+        "include too much detail",
+        "are illegal in some countries"
+      ],
+      "answerIndex": 1,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R051",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The term “natural” can be distracting because it may:",
+      "options": [
+        "guarantee low sugar",
+        "hide high sugar content",
+        "remove calories",
+        "make food unsafe"
+      ],
+      "answerIndex": 1,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R052",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What change have some countries introduced?",
+      "options": [
+        "Banning all nutrition labels",
+        "Front-of-package symbols indicating high salt/sugar/fat",
+        "Replacing labels with advertisements",
+        "Hiding serving sizes completely"
+      ],
+      "answerIndex": 1,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R053",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "According to the passage, simple labels can:",
+      "options": [
+        "shift purchasing habits",
+        "eliminate the need for education",
+        "make all food healthy",
+        "increase confusion"
+      ],
+      "answerIndex": 0,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R054",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author concludes that education is needed to:",
+      "options": [
+        "avoid reading labels",
+        "understand and use label information effectively",
+        "remove sugar from diets entirely",
+        "increase serving sizes"
+      ],
+      "answerIndex": 1,
+      "passage": "Nutrition labels were created to help consumers make informed choices, yet they can be confusing. Serving sizes may appear smaller than what people actually eat, making calorie counts seem lower. In addition, terms like “natural” or “low fat” can distract from high sugar content. Some countries have introduced front‑of‑package symbols that quickly indicate whether a product is high in salt, sugar, or saturated fat. Early evidence suggests these labels can shift purchasing habits, especially when they are simple and consistent. Still, education is needed so that people understand how to use the information effectively."
+    },
+    {
+      "id": "R055",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly highlights that remote work:",
+      "options": [
+        "is always more productive than office work",
+        "offers benefits but requires new communication habits",
+        "eliminates misunderstandings completely",
+        "makes written documentation unnecessary"
+      ],
+      "answerIndex": 1,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R056",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Why might misunderstandings grow in remote teams?",
+      "options": [
+        "There are too many hallway conversations",
+        "Expectations may not be explicit",
+        "Commuting time increases",
+        "Employees stop using messages"
+      ],
+      "answerIndex": 1,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R057",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is one problem of constant messaging mentioned?",
+      "options": [
+        "It encourages trust",
+        "It creates pressure to be always available",
+        "It reduces communication",
+        "It eliminates check-ins"
+      ],
+      "answerIndex": 1,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R058",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What solution do some companies use?",
+      "options": [
+        "Forcing employees to answer at all times",
+        "Setting quiet hours and encouraging disconnection",
+        "Removing written documentation",
+        "Monitoring every minute"
+      ],
+      "answerIndex": 1,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R059",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Successful remote teams focus on:",
+      "options": [
+        "monitoring time closely",
+        "outcomes rather than every minute",
+        "avoiding documentation",
+        "reducing trust"
+      ],
+      "answerIndex": 1,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R060",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s tone is best described as:",
+      "options": [
+        "balanced and analytical",
+        "sarcastic",
+        "completely negative",
+        "excited and uncritical"
+      ],
+      "answerIndex": 0,
+      "passage": "Remote work has expanded rapidly, offering flexibility and reducing commuting time. Yet it also changes how teams communicate. Without informal hallway conversations, misunderstandings may grow if expectations are not explicit. Many organizations therefore rely on written documentation and regular check‑ins. At the same time, constant messaging can create pressure to be always available. Some companies address this by setting “quiet hours” and encouraging employees to disconnect after work. The most successful remote teams tend to combine clear processes with a culture of trust, focusing on outcomes rather than monitoring every minute."
+    },
+    {
+      "id": "R061",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage is mainly about:",
+      "options": [
+        "Why excavation is no longer used",
+        "How modern technology assists archaeology",
+        "How drones are built",
+        "Why soil reflections are unreliable"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R062",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Ground-penetrating radar works by:",
+      "options": [
+        "melting the soil",
+        "sending signals and measuring reflections",
+        "counting vegetation",
+        "creating chemical reactions"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R063",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What advantage do these technologies provide?",
+      "options": [
+        "They eliminate the need for interpretation",
+        "They reduce unnecessary disturbance and target digging",
+        "They make excavation more random",
+        "They guarantee no false signals"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R064",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “non‑invasive” is closest in meaning to:",
+      "options": [
+        "destructive",
+        "not causing physical damage",
+        "illegal",
+        "very expensive"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R065",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What warning does the passage give?",
+      "options": [
+        "Technology replaces historical knowledge",
+        "False signals can mislead researchers",
+        "Drones cannot take pictures",
+        "Radar cannot detect structures"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R066",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage suggests that data should be combined with:",
+      "options": [
+        "only camera images",
+        "historical knowledge and careful interpretation",
+        "weather reports",
+        "modern architecture"
+      ],
+      "answerIndex": 1,
+      "passage": "Archaeologists once relied mainly on excavation, but today they often use non‑invasive technologies to locate sites before digging. Ground‑penetrating radar can detect buried structures by sending signals into the soil and measuring reflections. Drones equipped with high‑resolution cameras can reveal patterns in vegetation that suggest human activity below the surface. These tools reduce unnecessary disturbance and help researchers target excavation more precisely. Nevertheless, technology does not replace careful interpretation; data must be combined with historical knowledge, and false signals can still mislead even experienced teams."
+    },
+    {
+      "id": "R067",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage explains that vaccines:",
+      "options": [
+        "cure diseases instantly after infection",
+        "train the immune system for faster response",
+        "prevent the immune system from working",
+        "work only for adults"
+      ],
+      "answerIndex": 1,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R068",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What does vaccination cause the body to produce?",
+      "options": [
+        "Only viruses",
+        "Antibodies and memory cells",
+        "Salt and sugar",
+        "Carbon dioxide"
+      ],
+      "answerIndex": 1,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R069",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Community protection is improved when:",
+      "options": [
+        "a high percentage of people are immunized",
+        "people avoid all monitoring",
+        "vaccines are avoided",
+        "pathogens become stronger"
+      ],
+      "answerIndex": 0,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R070",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "Why might effectiveness vary?",
+      "options": [
+        "Because no vaccine exists",
+        "Because pathogens and immune responses differ",
+        "Because vaccines are always dangerous",
+        "Because monitoring replaces vaccines"
+      ],
+      "answerIndex": 1,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R071",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Public health strategies often combine vaccination with:",
+      "options": [
+        "only exercise",
+        "monitoring and additional preventive measures",
+        "avoiding preventive measures",
+        "reducing immunization rates"
+      ],
+      "answerIndex": 1,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R072",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s purpose is to:",
+      "options": [
+        "provide an explanation of how vaccines function",
+        "criticize vaccines strongly",
+        "promote a specific brand",
+        "describe an archaeological method"
+      ],
+      "answerIndex": 0,
+      "passage": "Vaccines work by training the immune system to recognize a pathogen before a person becomes seriously ill. When vaccinated, the body produces antibodies and memory cells that respond quickly to future exposure. This not only protects individuals but can also reduce the spread of disease within a community, especially when a high percentage of people are immunized. However, no vaccine is perfect; effectiveness can vary depending on the pathogen and the person’s immune response. For this reason, public health strategies often combine vaccination with monitoring and additional preventive measures."
+    },
+    {
+      "id": "R073",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly discusses:",
+      "options": [
+        "Why festivals should be banned",
+        "Benefits and challenges of cultural festivals",
+        "How to cook festival food",
+        "Why tourism is always harmful"
+      ],
+      "answerIndex": 1,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R074",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "An economic benefit of festivals is that they:",
+      "options": [
+        "reduce visitor spending",
+        "attract visitors who spend money locally",
+        "eliminate transportation needs",
+        "prevent local products from selling"
+      ],
+      "answerIndex": 1,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R075",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "One challenge mentioned is:",
+      "options": [
+        "too little music",
+        "overcrowding and increased waste",
+        "lack of traditions",
+        "lack of visitors"
+      ],
+      "answerIndex": 1,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R076",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What sustainability practice is mentioned?",
+      "options": [
+        "Using only single-use plastics",
+        "Recycling programs and reusable materials",
+        "Avoiding public transit",
+        "Increasing waste production"
+      ],
+      "answerIndex": 1,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R077",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “balance” in context means:",
+      "options": [
+        "ignore",
+        "cancel",
+        "combine in a responsible way",
+        "separate completely"
+      ],
+      "answerIndex": 2,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R078",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author suggests that thoughtful planning can lead to:",
+      "options": [
+        "a negative impression",
+        "a stronger sense of connection and positive impression",
+        "no visitors",
+        "less community identity"
+      ],
+      "answerIndex": 1,
+      "passage": "Cultural festivals can strengthen community identity by celebrating shared traditions, music, and food. They also bring economic benefits, attracting visitors who spend money on lodging, transportation, and local products. Yet festivals can create challenges, such as overcrowding and increased waste. Organizers increasingly adopt sustainability practices, including recycling programs, reusable materials, and partnerships with public transit. When planning is thoughtful, festivals can balance enjoyment with responsibility, leaving both residents and visitors with a positive impression and a stronger sense of connection to the place."
+    },
+    {
+      "id": "R079",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Peer review is intended to:",
+      "options": [
+        "advertise research to the public",
+        "evaluate research quality before publication",
+        "replace data collection",
+        "guarantee no errors forever"
+      ],
+      "answerIndex": 1,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R080",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "One limitation mentioned is that peer review:",
+      "options": [
+        "is always fast",
+        "can be influenced by bias",
+        "never requests revisions",
+        "is done only by students"
+      ],
+      "answerIndex": 1,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R081",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "What is an example of experimentation mentioned?",
+      "options": [
+        "Removing reviewers entirely",
+        "Open review with transparent comments",
+        "Publishing without any screening",
+        "Banning feedback"
+      ],
+      "answerIndex": 1,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R082",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The word “rigor” is closest in meaning to:",
+      "options": [
+        "strictness and carefulness",
+        "speed",
+        "humor",
+        "randomness"
+      ],
+      "answerIndex": 0,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R083",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The passage suggests the goal is to:",
+      "options": [
+        "maintain credibility while improving efficiency",
+        "end scientific publishing",
+        "avoid transparency",
+        "slow down publication"
+      ],
+      "answerIndex": 0,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R084",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author’s tone is best described as:",
+      "options": [
+        "informative and balanced",
+        "angry and personal",
+        "unrelated",
+        "dramatic and emotional"
+      ],
+      "answerIndex": 0,
+      "passage": "In scientific publishing, peer review is intended to evaluate the quality and validity of research before it becomes part of the academic record. Reviewers examine methods, data, and reasoning, and they may request revisions to clarify claims. While the process can improve rigor, it is not free from limitations. Reviewers may disagree, bias can influence decisions, and the system can be slow. As a result, some journals experiment with open review, where comments are transparent, or with faster screening combined with post‑publication feedback. The goal is to maintain credibility while improving efficiency."
+    },
+    {
+      "id": "R085",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The passage mainly discusses:",
+      "options": [
+        "Why doctors should be replaced by AI",
+        "Benefits and limitations of AI in medicine",
+        "How to build medical devices",
+        "Why datasets are always perfect"
+      ],
+      "answerIndex": 1,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "R086",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "AI can assist doctors by:",
+      "options": [
+        "analyzing large datasets quickly",
+        "eliminating the need for images",
+        "making all decisions without doctors",
+        "reducing the need for evaluation"
+      ],
+      "answerIndex": 0,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "R087",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "A major risk mentioned is that AI may:",
+      "options": [
+        "perform poorly if training data are biased",
+        "work only with small datasets",
+        "remove patterns from images",
+        "always be transparent"
+      ],
+      "answerIndex": 0,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "R088",
+      "section": "reading",
+      "difficulty": 4,
+      "prompt": "The passage argues that AI should:",
+      "options": [
+        "replace clinical judgment",
+        "support clinical judgment",
+        "avoid medical use entirely",
+        "ignore patient context"
+      ],
+      "answerIndex": 1,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "R089",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "Which requirement is mentioned for effective use?",
+      "options": [
+        "Transparency and continuous evaluation",
+        "Avoiding collaboration",
+        "Using incomplete datasets",
+        "Reducing engineers’ involvement"
+      ],
+      "answerIndex": 0,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "R090",
+      "section": "reading",
+      "difficulty": 3,
+      "prompt": "The author emphasizes collaboration between:",
+      "options": [
+        "patients and algorithms only",
+        "engineers and healthcare professionals",
+        "drivers and mechanics",
+        "students and teachers"
+      ],
+      "answerIndex": 1,
+      "passage": "Artificial intelligence systems can analyze large datasets quickly, assisting doctors in detecting patterns that might be difficult to notice. For example, algorithms trained on medical images can help identify early signs of disease. However, these tools depend on the quality of the data used to train them. If datasets are biased or incomplete, the system may perform poorly for certain groups. Moreover, AI should support—not replace—clinical judgment, since patients differ in context and symptoms. Effective use therefore requires transparency, continuous evaluation, and collaboration between engineers and healthcare professionals."
+    },
+    {
+      "id": "L001",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the main purpose of the call?",
+      "options": [
+        "To cancel a test date",
+        "To ask which study plan is appropriate",
+        "To complain about course prices",
+        "To request a refund"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: Hi, I’m calling about the STEP preparation course. I saw the announcement, but I’m not sure which plan fits me.\nWoman: No problem. When is your test date?\nMan: In about a week. I work during the day, so I can only study in the evenings.\nWoman: Then I recommend the 7‑day intensive plan. It focuses on daily practice tests and quick reviews. If you follow it consistently, you’ll know exactly what to prioritize."
+    },
+    {
+      "id": "L002",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "When is the man’s test?",
+      "options": [
+        "Tomorrow",
+        "In about a week",
+        "In two months",
+        "He hasn’t booked it"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: Hi, I’m calling about the STEP preparation course. I saw the announcement, but I’m not sure which plan fits me.\nWoman: No problem. When is your test date?\nMan: In about a week. I work during the day, so I can only study in the evenings.\nWoman: Then I recommend the 7‑day intensive plan. It focuses on daily practice tests and quick reviews. If you follow it consistently, you’ll know exactly what to prioritize."
+    },
+    {
+      "id": "L003",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "Why does the woman recommend the 7-day plan?",
+      "options": [
+        "Because the man can study only in the evenings",
+        "Because it is the cheapest option",
+        "Because it avoids practice tests",
+        "Because it requires no consistency"
+      ],
+      "answerIndex": 0,
+      "transcript": "Man: Hi, I’m calling about the STEP preparation course. I saw the announcement, but I’m not sure which plan fits me.\nWoman: No problem. When is your test date?\nMan: In about a week. I work during the day, so I can only study in the evenings.\nWoman: Then I recommend the 7‑day intensive plan. It focuses on daily practice tests and quick reviews. If you follow it consistently, you’ll know exactly what to prioritize."
+    },
+    {
+      "id": "L004",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the woman say the plan focuses on?",
+      "options": [
+        "Long lectures only",
+        "Daily practice tests and quick reviews",
+        "Group discussions",
+        "Listening to music"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: Hi, I’m calling about the STEP preparation course. I saw the announcement, but I’m not sure which plan fits me.\nWoman: No problem. When is your test date?\nMan: In about a week. I work during the day, so I can only study in the evenings.\nWoman: Then I recommend the 7‑day intensive plan. It focuses on daily practice tests and quick reviews. If you follow it consistently, you’ll know exactly what to prioritize."
+    },
+    {
+      "id": "L005",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What can be inferred about the man?",
+      "options": [
+        "He has unlimited time to study",
+        "He is busy during the day",
+        "He already took the test yesterday",
+        "He dislikes evening study"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: Hi, I’m calling about the STEP preparation course. I saw the announcement, but I’m not sure which plan fits me.\nWoman: No problem. When is your test date?\nMan: In about a week. I work during the day, so I can only study in the evenings.\nWoman: Then I recommend the 7‑day intensive plan. It focuses on daily practice tests and quick reviews. If you follow it consistently, you’ll know exactly what to prioritize."
+    },
+    {
+      "id": "L006",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the professor mainly talking about?",
+      "options": [
+        "Why multitasking improves learning",
+        "How attention and interruptions affect learning",
+        "How to use phones during class",
+        "Why breaks should be avoided"
+      ],
+      "answerIndex": 1,
+      "transcript": "Professor: Today we’ll discuss how attention affects learning. Many students try to multitask—studying while checking messages—but research shows that switching tasks creates a cost. Even brief interruptions can reduce understanding, because the brain must re‑orient each time. A simple strategy is to study in short blocks, keep your phone out of reach, and take planned breaks. That way, your focus is protected and your review becomes more efficient."
+    },
+    {
+      "id": "L007",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "According to the professor, switching tasks:",
+      "options": [
+        "has no effect",
+        "creates a cost and reduces understanding",
+        "always increases motivation",
+        "helps memory instantly"
+      ],
+      "answerIndex": 1,
+      "transcript": "Professor: Today we’ll discuss how attention affects learning. Many students try to multitask—studying while checking messages—but research shows that switching tasks creates a cost. Even brief interruptions can reduce understanding, because the brain must re‑orient each time. A simple strategy is to study in short blocks, keep your phone out of reach, and take planned breaks. That way, your focus is protected and your review becomes more efficient."
+    },
+    {
+      "id": "L008",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What strategy is recommended?",
+      "options": [
+        "Studying with constant notifications",
+        "Keeping the phone out of reach",
+        "Avoiding all breaks",
+        "Studying for ten hours without stopping"
+      ],
+      "answerIndex": 1,
+      "transcript": "Professor: Today we’ll discuss how attention affects learning. Many students try to multitask—studying while checking messages—but research shows that switching tasks creates a cost. Even brief interruptions can reduce understanding, because the brain must re‑orient each time. A simple strategy is to study in short blocks, keep your phone out of reach, and take planned breaks. That way, your focus is protected and your review becomes more efficient."
+    },
+    {
+      "id": "L009",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "The word “efficient” is closest in meaning to:",
+      "options": [
+        "wasteful",
+        "effective",
+        "confusing",
+        "slow"
+      ],
+      "answerIndex": 1,
+      "transcript": "Professor: Today we’ll discuss how attention affects learning. Many students try to multitask—studying while checking messages—but research shows that switching tasks creates a cost. Even brief interruptions can reduce understanding, because the brain must re‑orient each time. A simple strategy is to study in short blocks, keep your phone out of reach, and take planned breaks. That way, your focus is protected and your review becomes more efficient."
+    },
+    {
+      "id": "L010",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What can be inferred about planned breaks?",
+      "options": [
+        "They help protect focus overall",
+        "They are unnecessary for learning",
+        "They prevent understanding completely",
+        "They cause more interruptions than messages"
+      ],
+      "answerIndex": 0,
+      "transcript": "Professor: Today we’ll discuss how attention affects learning. Many students try to multitask—studying while checking messages—but research shows that switching tasks creates a cost. Even brief interruptions can reduce understanding, because the brain must re‑orient each time. A simple strategy is to study in short blocks, keep your phone out of reach, and take planned breaks. That way, your focus is protected and your review becomes more efficient."
+    },
+    {
+      "id": "L011",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "Why does the woman say listening is difficult for her?",
+      "options": [
+        "She cannot hear the audio at all",
+        "She misses details even if she understands the passage",
+        "She prefers grammar questions",
+        "She never practices listening"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: Excuse me, is this seat taken?\nMan: No, go ahead. Are you preparing for the STEP test too?\nWoman: Yes. My biggest problem is listening. I understand the passage, but I miss details.\nMan: I had the same issue. I started writing keywords while I listened—just two or three words per sentence. It helped me stay focused and remember the details.\nWoman: That sounds doable. I’ll try it tonight."
+    },
+    {
+      "id": "L012",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What technique does the man recommend?",
+      "options": [
+        "Reading transcripts only",
+        "Writing keywords while listening",
+        "Ignoring the audio",
+        "Memorizing full sentences"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: Excuse me, is this seat taken?\nMan: No, go ahead. Are you preparing for the STEP test too?\nWoman: Yes. My biggest problem is listening. I understand the passage, but I miss details.\nMan: I had the same issue. I started writing keywords while I listened—just two or three words per sentence. It helped me stay focused and remember the details.\nWoman: That sounds doable. I’ll try it tonight."
+    },
+    {
+      "id": "L013",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "How many words per sentence does he suggest writing?",
+      "options": [
+        "Two or three",
+        "Ten",
+        "None",
+        "One full paragraph"
+      ],
+      "answerIndex": 0,
+      "transcript": "Woman: Excuse me, is this seat taken?\nMan: No, go ahead. Are you preparing for the STEP test too?\nWoman: Yes. My biggest problem is listening. I understand the passage, but I miss details.\nMan: I had the same issue. I started writing keywords while I listened—just two or three words per sentence. It helped me stay focused and remember the details.\nWoman: That sounds doable. I’ll try it tonight."
+    },
+    {
+      "id": "L014",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the woman likely to do next?",
+      "options": [
+        "Give up on listening practice",
+        "Try the technique that night",
+        "Switch to a different test",
+        "Stop studying"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: Excuse me, is this seat taken?\nMan: No, go ahead. Are you preparing for the STEP test too?\nWoman: Yes. My biggest problem is listening. I understand the passage, but I miss details.\nMan: I had the same issue. I started writing keywords while I listened—just two or three words per sentence. It helped me stay focused and remember the details.\nWoman: That sounds doable. I’ll try it tonight."
+    },
+    {
+      "id": "L015",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "The man’s attitude is best described as:",
+      "options": [
+        "unhelpful",
+        "supportive",
+        "annoyed",
+        "uninterested"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: Excuse me, is this seat taken?\nMan: No, go ahead. Are you preparing for the STEP test too?\nWoman: Yes. My biggest problem is listening. I understand the passage, but I miss details.\nMan: I had the same issue. I started writing keywords while I listened—just two or three words per sentence. It helped me stay focused and remember the details.\nWoman: That sounds doable. I’ll try it tonight."
+    },
+    {
+      "id": "L016",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the man’s problem?",
+      "options": [
+        "He lost his ID",
+        "He entered the wrong date on a form",
+        "He missed the registration deadline",
+        "He forgot his exam location"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m here to pick up my application form, but I think I made a mistake on the date.\nReceptionist: Let me check. What did you enter?\nMan: I wrote March 18th, but my exam is actually on March 28th.\nReceptionist: No worries. You can update it online, but make sure you do it before the registration deadline, which is next Monday.\nMan: Great. Thank you for the help."
+    },
+    {
+      "id": "L017",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the correct exam date?",
+      "options": [
+        "March 18th",
+        "March 28th",
+        "Next Monday",
+        "March 8th"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m here to pick up my application form, but I think I made a mistake on the date.\nReceptionist: Let me check. What did you enter?\nMan: I wrote March 18th, but my exam is actually on March 28th.\nReceptionist: No worries. You can update it online, but make sure you do it before the registration deadline, which is next Monday.\nMan: Great. Thank you for the help."
+    },
+    {
+      "id": "L018",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the receptionist say he can do?",
+      "options": [
+        "Update the date online",
+        "Change the exam to April",
+        "Cancel the application",
+        "Ignore the mistake"
+      ],
+      "answerIndex": 0,
+      "transcript": "Man: I’m here to pick up my application form, but I think I made a mistake on the date.\nReceptionist: Let me check. What did you enter?\nMan: I wrote March 18th, but my exam is actually on March 28th.\nReceptionist: No worries. You can update it online, but make sure you do it before the registration deadline, which is next Monday.\nMan: Great. Thank you for the help."
+    },
+    {
+      "id": "L019",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "When is the registration deadline?",
+      "options": [
+        "Today",
+        "Next Monday",
+        "March 28th",
+        "March 18th"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m here to pick up my application form, but I think I made a mistake on the date.\nReceptionist: Let me check. What did you enter?\nMan: I wrote March 18th, but my exam is actually on March 28th.\nReceptionist: No worries. You can update it online, but make sure you do it before the registration deadline, which is next Monday.\nMan: Great. Thank you for the help."
+    },
+    {
+      "id": "L020",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What can be inferred?",
+      "options": [
+        "He must update immediately or risk missing the deadline",
+        "The date cannot be changed",
+        "The receptionist is unsure",
+        "The exam has been cancelled"
+      ],
+      "answerIndex": 0,
+      "transcript": "Man: I’m here to pick up my application form, but I think I made a mistake on the date.\nReceptionist: Let me check. What did you enter?\nMan: I wrote March 18th, but my exam is actually on March 28th.\nReceptionist: No worries. You can update it online, but make sure you do it before the registration deadline, which is next Monday.\nMan: Great. Thank you for the help."
+    },
+    {
+      "id": "L021",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the advisor recommend first?",
+      "options": [
+        "Booking the test immediately",
+        "Taking a placement test",
+        "Studying for one day only",
+        "Changing the target score"
+      ],
+      "answerIndex": 1,
+      "transcript": "Student: I’m thinking about booking my STEP test, but I’m not sure how much time I need to prepare.\nAdvisor: It depends on your current level. Have you taken a placement test?\nStudent: Not yet.\nAdvisor: Start with a placement test today. If your score is already close to your target, two weeks of focused practice may be enough. If there’s a big gap, you should plan for a month or more and book a later date.\nStudent: That makes sense."
+    },
+    {
+      "id": "L022",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "If the student is close to the target, how long may be enough?",
+      "options": [
+        "One day",
+        "Two weeks",
+        "Six months",
+        "A year"
+      ],
+      "answerIndex": 1,
+      "transcript": "Student: I’m thinking about booking my STEP test, but I’m not sure how much time I need to prepare.\nAdvisor: It depends on your current level. Have you taken a placement test?\nStudent: Not yet.\nAdvisor: Start with a placement test today. If your score is already close to your target, two weeks of focused practice may be enough. If there’s a big gap, you should plan for a month or more and book a later date.\nStudent: That makes sense."
+    },
+    {
+      "id": "L023",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "If there is a big gap, the advisor suggests:",
+      "options": [
+        "Booking a later date and planning for a month or more",
+        "Skipping practice tests",
+        "Studying for two days only",
+        "Lowering the target score"
+      ],
+      "answerIndex": 0,
+      "transcript": "Student: I’m thinking about booking my STEP test, but I’m not sure how much time I need to prepare.\nAdvisor: It depends on your current level. Have you taken a placement test?\nStudent: Not yet.\nAdvisor: Start with a placement test today. If your score is already close to your target, two weeks of focused practice may be enough. If there’s a big gap, you should plan for a month or more and book a later date.\nStudent: That makes sense."
+    },
+    {
+      "id": "L024",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "The student’s response shows that he:",
+      "options": [
+        "disagrees",
+        "understands and accepts the advice",
+        "is confused",
+        "is angry"
+      ],
+      "answerIndex": 1,
+      "transcript": "Student: I’m thinking about booking my STEP test, but I’m not sure how much time I need to prepare.\nAdvisor: It depends on your current level. Have you taken a placement test?\nStudent: Not yet.\nAdvisor: Start with a placement test today. If your score is already close to your target, two weeks of focused practice may be enough. If there’s a big gap, you should plan for a month or more and book a later date.\nStudent: That makes sense."
+    },
+    {
+      "id": "L025",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What is the conversation mainly about?",
+      "options": [
+        "How to increase exam fees",
+        "When to book the STEP test based on preparation time",
+        "How to choose a university",
+        "Why placement tests are expensive"
+      ],
+      "answerIndex": 1,
+      "transcript": "Student: I’m thinking about booking my STEP test, but I’m not sure how much time I need to prepare.\nAdvisor: It depends on your current level. Have you taken a placement test?\nStudent: Not yet.\nAdvisor: Start with a placement test today. If your score is already close to your target, two weeks of focused practice may be enough. If there’s a big gap, you should plan for a month or more and book a later date.\nStudent: That makes sense."
+    },
+    {
+      "id": "L026",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "Why does the woman struggle with reading?",
+      "options": [
+        "She cannot understand any vocabulary",
+        "She runs out of time",
+        "She reads too fast",
+        "She skips the questions"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: The reading section is killing me. I run out of time every time.\nMan: Do you read the whole passage first?\nWoman: Yes, and then I start answering.\nMan: Try a different approach. Read the questions first, then skim the passage for keywords. You don’t need to understand every sentence—just locate the information quickly.\nWoman: I guess I’ve been reading too slowly."
+    },
+    {
+      "id": "L027",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the man suggest doing first?",
+      "options": [
+        "Reading the entire passage carefully",
+        "Reading the questions before the passage",
+        "Skipping all questions",
+        "Writing a full summary"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: The reading section is killing me. I run out of time every time.\nMan: Do you read the whole passage first?\nWoman: Yes, and then I start answering.\nMan: Try a different approach. Read the questions first, then skim the passage for keywords. You don’t need to understand every sentence—just locate the information quickly.\nWoman: I guess I’ve been reading too slowly."
+    },
+    {
+      "id": "L028",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What does he say the reader does NOT need to do?",
+      "options": [
+        "Locate keywords",
+        "Understand every sentence",
+        "Skim the passage",
+        "Answer questions"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: The reading section is killing me. I run out of time every time.\nMan: Do you read the whole passage first?\nWoman: Yes, and then I start answering.\nMan: Try a different approach. Read the questions first, then skim the passage for keywords. You don’t need to understand every sentence—just locate the information quickly.\nWoman: I guess I’ve been reading too slowly."
+    },
+    {
+      "id": "L029",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What can be inferred about the woman’s current method?",
+      "options": [
+        "It may be inefficient for time management",
+        "It is the fastest method",
+        "It avoids slow reading",
+        "It focuses on keywords"
+      ],
+      "answerIndex": 0,
+      "transcript": "Woman: The reading section is killing me. I run out of time every time.\nMan: Do you read the whole passage first?\nWoman: Yes, and then I start answering.\nMan: Try a different approach. Read the questions first, then skim the passage for keywords. You don’t need to understand every sentence—just locate the information quickly.\nWoman: I guess I’ve been reading too slowly."
+    },
+    {
+      "id": "L030",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "The man’s advice is mainly about:",
+      "options": [
+        "improving speed through strategy",
+        "memorizing vocabulary lists only",
+        "changing exam rules",
+        "avoiding reading practice"
+      ],
+      "answerIndex": 0,
+      "transcript": "Woman: The reading section is killing me. I run out of time every time.\nMan: Do you read the whole passage first?\nWoman: Yes, and then I start answering.\nMan: Try a different approach. Read the questions first, then skim the passage for keywords. You don’t need to understand every sentence—just locate the information quickly.\nWoman: I guess I’ve been reading too slowly."
+    },
+    {
+      "id": "L031",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the instructor advise students to do during the mock test?",
+      "options": [
+        "Pause whenever they feel tired",
+        "Check answers after each question",
+        "Treat it like a real exam with a timer",
+        "Skip confusing questions without noting them"
+      ],
+      "answerIndex": 2,
+      "transcript": "Instructor: Before you start the mock test, set a timer and treat it like a real exam. Don’t pause, don’t check answers midway, and write down any question that feels confusing. After you finish, spend more time reviewing mistakes than celebrating correct answers. The fastest improvement comes from understanding *why* you were wrong and practicing that specific pattern again."
+    },
+    {
+      "id": "L032",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What should students write down?",
+      "options": [
+        "Only the questions they answered correctly",
+        "Any question that feels confusing",
+        "Their favorite strategies",
+        "Nothing at all"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Before you start the mock test, set a timer and treat it like a real exam. Don’t pause, don’t check answers midway, and write down any question that feels confusing. After you finish, spend more time reviewing mistakes than celebrating correct answers. The fastest improvement comes from understanding *why* you were wrong and practicing that specific pattern again."
+    },
+    {
+      "id": "L033",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "After finishing, students should spend more time:",
+      "options": [
+        "celebrating correct answers",
+        "reviewing mistakes",
+        "starting a new test immediately",
+        "ignoring explanations"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Before you start the mock test, set a timer and treat it like a real exam. Don’t pause, don’t check answers midway, and write down any question that feels confusing. After you finish, spend more time reviewing mistakes than celebrating correct answers. The fastest improvement comes from understanding *why* you were wrong and practicing that specific pattern again."
+    },
+    {
+      "id": "L034",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "According to the instructor, the fastest improvement comes from:",
+      "options": [
+        "guessing quickly",
+        "understanding why mistakes happened",
+        "avoiding patterns",
+        "studying only vocabulary"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Before you start the mock test, set a timer and treat it like a real exam. Don’t pause, don’t check answers midway, and write down any question that feels confusing. After you finish, spend more time reviewing mistakes than celebrating correct answers. The fastest improvement comes from understanding *why* you were wrong and practicing that specific pattern again."
+    },
+    {
+      "id": "L035",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "The instructor’s tone is best described as:",
+      "options": [
+        "strict and practical",
+        "joking",
+        "uncertain",
+        "unrelated"
+      ],
+      "answerIndex": 0,
+      "transcript": "Instructor: Before you start the mock test, set a timer and treat it like a real exam. Don’t pause, don’t check answers midway, and write down any question that feels confusing. After you finish, spend more time reviewing mistakes than celebrating correct answers. The fastest improvement comes from understanding *why* you were wrong and practicing that specific pattern again."
+    },
+    {
+      "id": "L036",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "Why is the man contacting support?",
+      "options": [
+        "He wants to change the course price",
+        "He hasn’t received confirmation after sending a receipt",
+        "He lost the course content",
+        "He wants to cancel the test"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I sent my payment receipt yesterday, but I haven’t received confirmation.\nSupport: Let me help. Did you include your full name and the course name in the message?\nMan: I only sent the receipt screenshot.\nSupport: Please send your name, the amount, and the time of transfer. That will speed up verification. Once it’s confirmed, you’ll receive access details.\nMan: Okay, I’ll send that now."
+    },
+    {
+      "id": "L037",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What did he send originally?",
+      "options": [
+        "A full message with details",
+        "Only the receipt screenshot",
+        "A letter by mail",
+        "Nothing"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I sent my payment receipt yesterday, but I haven’t received confirmation.\nSupport: Let me help. Did you include your full name and the course name in the message?\nMan: I only sent the receipt screenshot.\nSupport: Please send your name, the amount, and the time of transfer. That will speed up verification. Once it’s confirmed, you’ll receive access details.\nMan: Okay, I’ll send that now."
+    },
+    {
+      "id": "L038",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What information does support request?",
+      "options": [
+        "His address only",
+        "Name, amount, and time of transfer",
+        "A new test date",
+        "A passport photo"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I sent my payment receipt yesterday, but I haven’t received confirmation.\nSupport: Let me help. Did you include your full name and the course name in the message?\nMan: I only sent the receipt screenshot.\nSupport: Please send your name, the amount, and the time of transfer. That will speed up verification. Once it’s confirmed, you’ll receive access details.\nMan: Okay, I’ll send that now."
+    },
+    {
+      "id": "L039",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "Why does support request this information?",
+      "options": [
+        "To delay confirmation",
+        "To speed up verification",
+        "To increase the price",
+        "To cancel the receipt"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I sent my payment receipt yesterday, but I haven’t received confirmation.\nSupport: Let me help. Did you include your full name and the course name in the message?\nMan: I only sent the receipt screenshot.\nSupport: Please send your name, the amount, and the time of transfer. That will speed up verification. Once it’s confirmed, you’ll receive access details.\nMan: Okay, I’ll send that now."
+    },
+    {
+      "id": "L040",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What will happen after confirmation?",
+      "options": [
+        "He will receive access details",
+        "He will be banned",
+        "He will need to pay again",
+        "The course will close"
+      ],
+      "answerIndex": 0,
+      "transcript": "Man: I sent my payment receipt yesterday, but I haven’t received confirmation.\nSupport: Let me help. Did you include your full name and the course name in the message?\nMan: I only sent the receipt screenshot.\nSupport: Please send your name, the amount, and the time of transfer. That will speed up verification. Once it’s confirmed, you’ll receive access details.\nMan: Okay, I’ll send that now."
+    },
+    {
+      "id": "L041",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "When is the woman’s test?",
+      "options": [
+        "Next month",
+        "Tomorrow",
+        "In two weeks",
+        "She hasn’t booked it"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I’m worried because my test is tomorrow, and I still feel weak in grammar.\nFriend: Focus on high‑impact areas. Review common verb tenses, conditionals, and prepositions. Then do a short mock test and check your errors. Don’t try to learn everything tonight—just reduce mistakes you repeat.\nWoman: You’re right. I need a realistic plan."
+    },
+    {
+      "id": "L042",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the friend advise her to focus on?",
+      "options": [
+        "Rare idioms only",
+        "High-impact grammar areas and a short mock test",
+        "Reading novels",
+        "Learning everything overnight"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I’m worried because my test is tomorrow, and I still feel weak in grammar.\nFriend: Focus on high‑impact areas. Review common verb tenses, conditionals, and prepositions. Then do a short mock test and check your errors. Don’t try to learn everything tonight—just reduce mistakes you repeat.\nWoman: You’re right. I need a realistic plan."
+    },
+    {
+      "id": "L043",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "The friend suggests she should NOT:",
+      "options": [
+        "check her errors",
+        "try to learn everything tonight",
+        "review tenses",
+        "reduce repeated mistakes"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I’m worried because my test is tomorrow, and I still feel weak in grammar.\nFriend: Focus on high‑impact areas. Review common verb tenses, conditionals, and prepositions. Then do a short mock test and check your errors. Don’t try to learn everything tonight—just reduce mistakes you repeat.\nWoman: You’re right. I need a realistic plan."
+    },
+    {
+      "id": "L044",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What can be inferred about the friend’s approach?",
+      "options": [
+        "It is practical under time pressure",
+        "It requires months of study",
+        "It ignores grammar completely",
+        "It discourages planning"
+      ],
+      "answerIndex": 0,
+      "transcript": "Woman: I’m worried because my test is tomorrow, and I still feel weak in grammar.\nFriend: Focus on high‑impact areas. Review common verb tenses, conditionals, and prepositions. Then do a short mock test and check your errors. Don’t try to learn everything tonight—just reduce mistakes you repeat.\nWoman: You’re right. I need a realistic plan."
+    },
+    {
+      "id": "L045",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "The woman’s final response indicates she:",
+      "options": [
+        "disagrees",
+        "accepts the advice",
+        "will cancel the test",
+        "will stop studying"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I’m worried because my test is tomorrow, and I still feel weak in grammar.\nFriend: Focus on high‑impact areas. Review common verb tenses, conditionals, and prepositions. Then do a short mock test and check your errors. Don’t try to learn everything tonight—just reduce mistakes you repeat.\nWoman: You’re right. I need a realistic plan."
+    },
+    {
+      "id": "L046",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "Where is the staff desk located?",
+      "options": [
+        "Outside the building",
+        "Right next to the entrance",
+        "In the cafeteria",
+        "On the second floor"
+      ],
+      "answerIndex": 1,
+      "transcript": "Tour guide: On your left is the language lab. Students can practice listening with headphones and record their own speaking. The lab is open from 9 a.m. to 7 p.m. on weekdays, but it closes earlier on Fridays. If you need help, the staff desk is right next to the entrance. Please remember to bring your student ID to borrow equipment."
+    },
+    {
+      "id": "L047",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "When is the lab open on weekdays?",
+      "options": [
+        "9 a.m. to 7 p.m.",
+        "7 a.m. to 9 p.m.",
+        "Only on weekends",
+        "It is always closed"
+      ],
+      "answerIndex": 0,
+      "transcript": "Tour guide: On your left is the language lab. Students can practice listening with headphones and record their own speaking. The lab is open from 9 a.m. to 7 p.m. on weekdays, but it closes earlier on Fridays. If you need help, the staff desk is right next to the entrance. Please remember to bring your student ID to borrow equipment."
+    },
+    {
+      "id": "L048",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What happens on Fridays?",
+      "options": [
+        "It opens later",
+        "It closes earlier",
+        "It is open 24 hours",
+        "It is closed all day"
+      ],
+      "answerIndex": 1,
+      "transcript": "Tour guide: On your left is the language lab. Students can practice listening with headphones and record their own speaking. The lab is open from 9 a.m. to 7 p.m. on weekdays, but it closes earlier on Fridays. If you need help, the staff desk is right next to the entrance. Please remember to bring your student ID to borrow equipment."
+    },
+    {
+      "id": "L049",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What should students bring to borrow equipment?",
+      "options": [
+        "A passport",
+        "A student ID",
+        "A laptop",
+        "A library card"
+      ],
+      "answerIndex": 1,
+      "transcript": "Tour guide: On your left is the language lab. Students can practice listening with headphones and record their own speaking. The lab is open from 9 a.m. to 7 p.m. on weekdays, but it closes earlier on Fridays. If you need help, the staff desk is right next to the entrance. Please remember to bring your student ID to borrow equipment."
+    },
+    {
+      "id": "L050",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What is the tour guide mainly doing?",
+      "options": [
+        "Explaining lab rules and hours",
+        "Describing a history lecture",
+        "Selling headphones",
+        "Discussing exam fees"
+      ],
+      "answerIndex": 0,
+      "transcript": "Tour guide: On your left is the language lab. Students can practice listening with headphones and record their own speaking. The lab is open from 9 a.m. to 7 p.m. on weekdays, but it closes earlier on Fridays. If you need help, the staff desk is right next to the entrance. Please remember to bring your student ID to borrow equipment."
+    },
+    {
+      "id": "L051",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What should a student do if they can’t eliminate two options quickly?",
+      "options": [
+        "Spend five minutes on the question",
+        "Mark it, guess strategically, and move on",
+        "Quit the test",
+        "Read the passage again from the beginning"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Some students panic when they see a difficult question. Instead, use a simple rule: if you can’t eliminate at least two options within 20 seconds, mark the question, guess strategically, and move on. You can return later if time remains. This keeps you from losing points on easier questions because you got stuck on one hard item."
+    },
+    {
+      "id": "L052",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "The time limit mentioned is:",
+      "options": [
+        "5 seconds",
+        "20 seconds",
+        "2 minutes",
+        "10 minutes"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Some students panic when they see a difficult question. Instead, use a simple rule: if you can’t eliminate at least two options within 20 seconds, mark the question, guess strategically, and move on. You can return later if time remains. This keeps you from losing points on easier questions because you got stuck on one hard item."
+    },
+    {
+      "id": "L053",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "Why is this rule helpful?",
+      "options": [
+        "It increases panic",
+        "It prevents wasting time and protects easier questions",
+        "It eliminates the need to review",
+        "It guarantees a perfect score"
+      ],
+      "answerIndex": 1,
+      "transcript": "Instructor: Some students panic when they see a difficult question. Instead, use a simple rule: if you can’t eliminate at least two options within 20 seconds, mark the question, guess strategically, and move on. You can return later if time remains. This keeps you from losing points on easier questions because you got stuck on one hard item."
+    },
+    {
+      "id": "L054",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What can the student do later?",
+      "options": [
+        "Return to marked questions if time remains",
+        "Change the test format",
+        "Ask the instructor",
+        "Skip all remaining questions"
+      ],
+      "answerIndex": 0,
+      "transcript": "Instructor: Some students panic when they see a difficult question. Instead, use a simple rule: if you can’t eliminate at least two options within 20 seconds, mark the question, guess strategically, and move on. You can return later if time remains. This keeps you from losing points on easier questions because you got stuck on one hard item."
+    },
+    {
+      "id": "L055",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "The instructor’s advice is mainly about:",
+      "options": [
+        "time management during the test",
+        "memorizing vocabulary",
+        "improving writing",
+        "choosing a university"
+      ],
+      "answerIndex": 0,
+      "transcript": "Instructor: Some students panic when they see a difficult question. Instead, use a simple rule: if you can’t eliminate at least two options within 20 seconds, mark the question, guess strategically, and move on. You can return later if time remains. This keeps you from losing points on easier questions because you got stuck on one hard item."
+    },
+    {
+      "id": "L056",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What issue does the man have?",
+      "options": [
+        "Listening speed",
+        "Repeated grammar mistakes with articles",
+        "Reading too fast",
+        "Lack of vocabulary"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I keep getting similar grammar mistakes, especially with articles.\nTutor: That’s common. Instead of doing hundreds of random questions, create a short list of your repeated errors. Then practice only that pattern for three days. After that, return to mixed questions to see if the mistake disappeared.\nMan: So I should focus on patterns, not quantity.\nTutor: Exactly."
+    },
+    {
+      "id": "L057",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the tutor recommend creating?",
+      "options": [
+        "A long dictionary",
+        "A short list of repeated errors",
+        "A new exam format",
+        "A schedule with no practice"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I keep getting similar grammar mistakes, especially with articles.\nTutor: That’s common. Instead of doing hundreds of random questions, create a short list of your repeated errors. Then practice only that pattern for three days. After that, return to mixed questions to see if the mistake disappeared.\nMan: So I should focus on patterns, not quantity.\nTutor: Exactly."
+    },
+    {
+      "id": "L058",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "How long should he practice one pattern, according to the tutor?",
+      "options": [
+        "One day",
+        "Three days",
+        "Three months",
+        "Ten minutes"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I keep getting similar grammar mistakes, especially with articles.\nTutor: That’s common. Instead of doing hundreds of random questions, create a short list of your repeated errors. Then practice only that pattern for three days. After that, return to mixed questions to see if the mistake disappeared.\nMan: So I should focus on patterns, not quantity.\nTutor: Exactly."
+    },
+    {
+      "id": "L059",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "After focused practice, he should:",
+      "options": [
+        "avoid mixed questions",
+        "return to mixed questions to check improvement",
+        "stop studying",
+        "memorize random questions"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I keep getting similar grammar mistakes, especially with articles.\nTutor: That’s common. Instead of doing hundreds of random questions, create a short list of your repeated errors. Then practice only that pattern for three days. After that, return to mixed questions to see if the mistake disappeared.\nMan: So I should focus on patterns, not quantity.\nTutor: Exactly."
+    },
+    {
+      "id": "L060",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What is the tutor’s main point?",
+      "options": [
+        "Quantity matters more than patterns",
+        "Focusing on patterns can fix repeated errors",
+        "Articles are not important",
+        "Only reading matters"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I keep getting similar grammar mistakes, especially with articles.\nTutor: That’s common. Instead of doing hundreds of random questions, create a short list of your repeated errors. Then practice only that pattern for three days. After that, return to mixed questions to see if the mistake disappeared.\nMan: So I should focus on patterns, not quantity.\nTutor: Exactly."
+    },
+    {
+      "id": "L061",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What score does the woman need?",
+      "options": [
+        "62",
+        "80",
+        "50",
+        "95"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I got a 62 last time, but I need at least 80 for my program.\nCoach: That’s a clear goal. We’ll start by identifying your weakest section. If listening is below 50%, you’ll do short listening drills daily. If reading is the issue, we’ll train skimming and timing. The key is consistency and reviewing mistakes.\nWoman: I’m ready. I just need a structured plan."
+    },
+    {
+      "id": "L062",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What will the coach do first?",
+      "options": [
+        "Buy new books",
+        "Identify her weakest section",
+        "Cancel the program",
+        "Ignore listening"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I got a 62 last time, but I need at least 80 for my program.\nCoach: That’s a clear goal. We’ll start by identifying your weakest section. If listening is below 50%, you’ll do short listening drills daily. If reading is the issue, we’ll train skimming and timing. The key is consistency and reviewing mistakes.\nWoman: I’m ready. I just need a structured plan."
+    },
+    {
+      "id": "L063",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "If listening is below 50%, she will:",
+      "options": [
+        "avoid listening completely",
+        "do short listening drills daily",
+        "study only grammar",
+        "take one test per month"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I got a 62 last time, but I need at least 80 for my program.\nCoach: That’s a clear goal. We’ll start by identifying your weakest section. If listening is below 50%, you’ll do short listening drills daily. If reading is the issue, we’ll train skimming and timing. The key is consistency and reviewing mistakes.\nWoman: I’m ready. I just need a structured plan."
+    },
+    {
+      "id": "L064",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "What does the coach say is the key?",
+      "options": [
+        "Luck",
+        "Consistency and reviewing mistakes",
+        "Studying overnight",
+        "Avoiding timing practice"
+      ],
+      "answerIndex": 1,
+      "transcript": "Woman: I got a 62 last time, but I need at least 80 for my program.\nCoach: That’s a clear goal. We’ll start by identifying your weakest section. If listening is below 50%, you’ll do short listening drills daily. If reading is the issue, we’ll train skimming and timing. The key is consistency and reviewing mistakes.\nWoman: I’m ready. I just need a structured plan."
+    },
+    {
+      "id": "L065",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What does the woman want?",
+      "options": [
+        "A structured plan",
+        "A lower target score",
+        "No practice tests",
+        "Less consistency"
+      ],
+      "answerIndex": 0,
+      "transcript": "Woman: I got a 62 last time, but I need at least 80 for my program.\nCoach: That’s a clear goal. We’ll start by identifying your weakest section. If listening is below 50%, you’ll do short listening drills daily. If reading is the issue, we’ll train skimming and timing. The key is consistency and reviewing mistakes.\nWoman: I’m ready. I just need a structured plan."
+    },
+    {
+      "id": "L066",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What is the conversation mainly about?",
+      "options": [
+        "Changing test rules",
+        "Steps to register for the STEP test",
+        "Refund policies for courses",
+        "How to study grammar"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m confused about the registration steps for the STEP test.\nWoman: First, log in to your account, choose available tests, and select STEP. Then pick your test center, date, and time. After you confirm, you’ll pay the fee. Make sure your personal information is correct before you submit.\nMan: Got it. I’ll double-check everything."
+    },
+    {
+      "id": "L067",
+      "section": "listening",
+      "difficulty": 4,
+      "prompt": "After selecting STEP, what does the user choose next?",
+      "options": [
+        "A movie",
+        "Test center, date, and time",
+        "A new password",
+        "A teacher"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m confused about the registration steps for the STEP test.\nWoman: First, log in to your account, choose available tests, and select STEP. Then pick your test center, date, and time. After you confirm, you’ll pay the fee. Make sure your personal information is correct before you submit.\nMan: Got it. I’ll double-check everything."
+    },
+    {
+      "id": "L068",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What should the user check before submitting?",
+      "options": [
+        "Weather forecast",
+        "Personal information",
+        "The price of books",
+        "The color of the website"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m confused about the registration steps for the STEP test.\nWoman: First, log in to your account, choose available tests, and select STEP. Then pick your test center, date, and time. After you confirm, you’ll pay the fee. Make sure your personal information is correct before you submit.\nMan: Got it. I’ll double-check everything."
+    },
+    {
+      "id": "L069",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "What happens after confirmation?",
+      "options": [
+        "The user pays the fee",
+        "The test is cancelled",
+        "The user receives a diploma",
+        "The center is closed"
+      ],
+      "answerIndex": 0,
+      "transcript": "Man: I’m confused about the registration steps for the STEP test.\nWoman: First, log in to your account, choose available tests, and select STEP. Then pick your test center, date, and time. After you confirm, you’ll pay the fee. Make sure your personal information is correct before you submit.\nMan: Got it. I’ll double-check everything."
+    },
+    {
+      "id": "L070",
+      "section": "listening",
+      "difficulty": 3,
+      "prompt": "The man’s final comment indicates he will:",
+      "options": [
+        "ignore the steps",
+        "double-check details",
+        "quit immediately",
+        "complain"
+      ],
+      "answerIndex": 1,
+      "transcript": "Man: I’m confused about the registration steps for the STEP test.\nWoman: First, log in to your account, choose available tests, and select STEP. Then pick your test center, date, and time. After you confirm, you’ll pay the fee. Make sure your personal information is correct before you submit.\nMan: Got it. I’ll double-check everything."
+    }
+  ]
+}
