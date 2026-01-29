@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#fbbf24" />
+  <meta name="description" content="اختبار تحديد مستوى STEP + خطة مذاكرة + تسجيل في دورة STEP المكثفة 2026 — أكاديمية عايد." />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon.svg" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>اختبار تحديد المستوى — أكاديمية عايد</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=20260128b" />
+  <script src="assets/site-data.js?v=20260128b"></script>
+</head>
+<body data-page="test">
+  <div class="bg-shapes" aria-hidden="true"></div>
+
+  <header class="app-header">
+    <div class="container bar">
+      <div class="brand">
+        <a href="index.html" class="brand-mark" aria-label="الرئيسية"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l4 8 8 1-6 6 2 9-8-4-8 4 2-9-6-6 8-1z"/></svg></a>
+        <div class="brand-text">
+          <div class="name" data-brand-name>أكاديمية عايد الرسمية</div>
+          <div class="sub" data-brand-sub>STEP المكثفة 2026</div>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="التنقل">
+        <a data-nav href="index.html">الرئيسية</a>
+        <a data-nav href="level-test.html">اختبار المستوى</a>
+        <a data-nav href="results.html">النتيجة والخطة</a>
+        <a data-nav href="register.html" data-requires-unlock>التسجيل</a>
+        <a data-nav href="course-content.html">محتوى الدورة</a>
+        <a data-nav href="step-guide.html">دليل STEP</a>
+        <a data-nav href="faq.html">الأسئلة الشائعة</a>
+        <a data-nav href="support.html">الدعم</a>
+      </nav>
+
+      <div class="header-actions">
+        <div class="badge" title="المقاعد المتبقية">
+          <span class="dot"></span>
+          <strong data-seats-left>150</strong>
+          <small>مقعد • <span data-seats-label>متاح</span></small>
+        </div>
+
+        <button class="icon-btn btn-install" type="button" data-open-install aria-label="تثبيت التطبيق" title="تثبيت كـ تطبيق"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a1 1 0 0 1 1 1v9.6l2.3-2.3 1.4 1.4-4.7 4.7-4.7-4.7 1.4-1.4L11 13.6V4a1 1 0 0 1 1-1z"/><path d="M5 19h14v2H5z"/></svg></button>
+
+        <button class="icon-btn" type="button" data-share data-share-title="أكاديمية عايد — STEP المكثفة 2026" data-share-text="اختبار تحديد المستوى + خطة مذاكرة + تسجيل سريع" aria-label="مشاركة الموقع" title="مشاركة الموقع"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a3 3 0 1 0-2.8-4H15a3 3 0 0 0 3 3z"/><path d="M6 14a3 3 0 1 0 2.8 4H9a3 3 0 0 0-3-3z"/><path d="M18 16a3 3 0 1 0-2.1-5.1l-7.2 3.6a3 3 0 0 0 0 1l7.2 3.6A3 3 0 0 0 18 16z"/></svg></button>
+
+        <button class="icon-btn menu-btn" type="button" data-drawer-open aria-label="القائمة"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v2H4zM4 11h16v2H4zM4 16h16v2H4z"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Drawer -->
+  <div id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-panel">
+      <div class="drawer-head">
+        <div class="brand" style="gap:10px">
+          <div class="brand-mark" style="width:40px;height:40px;border-radius:16px"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l4 8 8 1-6 6 2 9-8-4-8 4 2-9-6-6 8-1z"/></svg></div>
+          <div>
+            <div style="font-weight:900;font-size:13px">أكاديمية عايد</div>
+            <div class="small" style="color:rgba(247,247,251,.6)">منصة STEP المكثفة 2026</div>
+          </div>
+        </div>
+        <button class="icon-btn" type="button" data-drawer-close aria-label="إغلاق"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.3 5.7 12 12l6.3 6.3-1.4 1.4L10.6 13.4 4.3 19.7 2.9 18.3 9.2 12 2.9 5.7 4.3 4.3l6.3 6.3 6.3-6.3z"/></svg></button>
+      </div>
+
+      <div class="drawer-links">
+        <a href="index.html"><b>الرئيسية</b><small>تعرف على البرنامج والمميزات</small></a>
+        <a href="level-test.html"><b>اختبار تحديد المستوى</b><small>50 سؤال + حفظ التقدم</small></a>
+        <a href="results.html"><b>النتيجة والخطة</b><small>تحليل + خطة جاهزة</small></a>
+        <a href="register.html" data-requires-unlock><b>التسجيل</b><small>الدفع + رفع الإيصال</small></a>
+        <a href="course-content.html"><b>محتوى الدورة</b><small>القنوات والملفات والنماذج</small></a>
+        <a href="step-guide.html"><b>دليل اختبار STEP</b><small>الأقسام + الرسوم + خطوات قياس</small></a>
+        <a href="faq.html"><b>الأسئلة الشائعة</b><small>إجابات مباشرة</small></a>
+        <a href="support.html"><b>الدعم</b><small>تواصل رسمي</small></a>
+      </div>
+
+      <div class="hr"></div>
+      <div class="card pad soft">
+        <b style="font-size:13px;">تثبيت المنصة كتطبيق</b>
+        <p class="muted" style="margin:8px 0 0">ثبتها على جوالك وخلك دايمًا على خطتك — بدون تشتيت.</p>
+        <div class="spacer"></div>
+        <button class="btn btn-primary" type="button" data-open-install><span class="spark"></span>تثبيت الآن</button>
+      </div>
+    </div>
+  </div>
+
+  <main id="spaMain" class="page page-enter" data-page="test">
+    
+<div class="container" id="levelTestRoot">
+  <section class="section">
+    <div class="head">
+      <div>
+        <h2>اختبار تحديد المستوى (محاكي STEP)</h2>
+        <p class="lead">جاوب على 50 سؤال — واحصل على نتيجة + خطة مذاكرة تلقائيًا.</p>
+      </div>
+      <a class="btn btn-ghost" href="index.html">رجوع للرئيسية</a>
+    </div>
+
+    <div id="intake" class="card pad">
+      <div class="grid cols-2">
+        <div>
+          <b style="font-size:14px">قبل نبدأ — بيانات بسيطة</b>
+          <p class="muted" style="margin:8px 0 0">
+            الهدف من البيانات يساعدنا نطلع لك خطة مناسبة. <b>اسمك إلزامي</b>.
+          </p>
+
+          <div class="spacer"></div>
+
+          <div class="form">
+            <div class="field">
+              <label for="p_name">اسم الطالب (إجباري)</label>
+              <input id="p_name" type="text" placeholder="اكتب اسمك الثلاثي" autocomplete="name" />
+            </div>
+
+            <div class="field">
+              <label for="p_goal">هدفك من STEP</label>
+              <select id="p_goal">
+                <option value="">اختر (اختياري)</option>
+                <option>قبول جامعي</option>
+                <option>وظيفة / ترقية</option>
+                <option>التجسير الجامعي</option>
+                <option>رفع الدرجة فقط</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="p_region">منطقتك</label>
+              <select id="p_region">
+                <option value="">اختر (اختياري)</option>
+                <option>الرياض</option>
+                <option>جدة</option>
+                <option>الشرقية</option>
+                <option>القصيم</option>
+                <option>المدينة</option>
+                <option>أبها</option>
+                <option>أخرى</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="p_hardest">أصعب قسم لك؟</label>
+              <select id="p_hardest">
+                <option value="">اختر (اختياري)</option>
+                <option value="grammar">القواعد</option>
+                <option value="reading">القراءة</option>
+                <option value="listening">الاستماع</option>
+                <option value="unsure">مو متأكد</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="p_style">طريقتك المفضلة بالمذاكرة</label>
+              <select id="p_style">
+                <option value="">اختر (اختياري)</option>
+                <option>شرح ثم تطبيق</option>
+                <option>تطبيق فقط (نماذج)</option>
+                <option>مزيج (أفضل)</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="p_before">هل اختبرت STEP سابقًا؟</label>
+              <select id="p_before">
+                <option value="no">لا</option>
+                <option value="yes">نعم</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="p_prev">درجتك السابقة (اختياري)</label>
+              <input id="p_prev" type="number" min="0" max="100" placeholder="مثال: 68" inputmode="numeric" />
+            </div>
+
+            <div class="field">
+              <label for="p_target">درجتك المستهدفة (اختياري)</label>
+              <input id="p_target" type="number" min="0" max="100" placeholder="مثال: 85" inputmode="numeric" />
+            </div>
+
+            <div class="field">
+              <label for="p_timeframe">متى موعد اختبارك؟</label>
+              <select id="p_timeframe">
+                <option value="lt24">أقل من 24 ساعة</option>
+                <option value="3d">خلال 3 أيام</option>
+                <option value="7d" selected>خلال 7 أيام</option>
+                <option value="15d">خلال 15 يوم</option>
+                <option value="30d">خلال شهر</option>
+                <option value="60d">خلال شهرين</option>
+                <option value="90d">خلال 3 شهور</option>
+                <option value="no_date">لسى ما حجزت</option>
+              </select>
+              <small>إذا ما حجزت، المنصة تقترح لك أفضل وقت للحجز حسب نتيجتك.</small>
+            </div>
+
+            <div class="field">
+              <label for="p_examdate">تاريخ/وقت الاختبار (اختياري)</label>
+              <input id="p_examdate" type="text" placeholder="مثال: 2026-02-10 مساءً" />
+            </div>
+          </div>
+
+          <div class="spacer"></div>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button class="btn btn-primary pulse" type="button" data-start><span class="spark"></span>ابدأ الاختبار الآن</button>
+            <button class="btn btn-ghost" type="button" data-resume style="display:none">تابع من آخر نقطة</button>
+            <button class="btn btn-danger" type="button" data-reset style="display:none">حذف التقدم</button>
+          </div>
+        </div>
+
+        <div>
+          <div class="card pad soft">
+            <b style="font-size:14px">قواعد الاختبار</b>
+            <ul class="muted" style="margin:10px 0 0; padding-right:18px; line-height:1.9">
+              <li>50 سؤال (قواعد/قراءة/استماع) — بشكل محاكي.</li>
+              <li>تقدر ترجع لأي سؤال قبل إنهاء الاختبار.</li>
+              <li>التقدم محفوظ تلقائيًا داخل جهازك.</li>
+              <li>بعد الإنهاء تظهر النتيجة والخطة وتفتح صفحة التسجيل.</li>
+            </ul>
+          </div>
+
+          <div class="spacer"></div>
+
+          <div class="helper">
+            نصيحة 💡: إذا ما كنت متأكد — اختر أفضل خيار وكمّل. لا تتعلق بسؤال واحد.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="testApp" class="test-shell" style="display:none">
+      <div class="test-top">
+        <div class="pill"><span class="k">السؤال</span> <span class="v"><span data-q-index>1</span>/<span data-q-total>50</span></span></div>
+        <div class="pill"><span class="k">القسم</span> <span class="v" data-q-section>—</span></div>
+        <div class="pill"><span class="k">الصعوبة</span> <span class="v" data-q-diff>—</span></div>
+        <div class="pill"><span class="k">الحفظ</span> <span class="v" data-save-hint>—</span></div>
+      </div>
+
+      <div class="progress"><div data-q-bar style="width:0%"></div></div>
+
+      <div class="card q-card">
+        <div class="q-meta">
+          <span class="tag">محاكي STEP</span>
+          <span class="tag soft">تنقل حر</span>
+          <span class="tag soft">بنك كبير</span>
+        </div>
+
+        <div data-q-passage-wrap style="display:none">
+          <div class="passage" data-q-passage></div>
+        </div>
+
+        <div class="q-prompt" data-q-prompt></div>
+
+        <div class="options" data-q-options></div>
+
+        <div class="nav-row">
+          <div class="left">
+            <button class="btn btn-ghost" type="button" data-prev>السابق</button>
+            <button class="btn btn-primary" type="button" data-next><span class="spark"></span>التالي</button>
+          </div>
+          <div class="right">
+            <button class="btn btn-outline" type="button" data-grid>عرض الأسئلة</button>
+            <button class="btn btn-danger" type="button" data-finish>إنهاء الاختبار</button>
+          </div>
+        </div>
+
+        <div class="q-grid" data-grid-wrap>
+          <b style="font-size:13px; display:block; margin-bottom:10px;">تنقل سريع بين الأسئلة</b>
+          <div class="nums" data-grid-nums></div>
+          <div class="spacer"></div>
+          <div class="small">الأخضر = جاوبت • الأصفر = السؤال الحالي</div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>
+
+  </main>
+
+  <footer class="app-footer">
+    <div class="container footer-inner">
+      <div class="footer-links">
+        <a href="course-content.html">المحتوى</a>
+        <a href="level-test.html">اختبار المستوى</a>
+        <a href="register.html" data-requires-unlock>التسجيل</a>
+        <a href="faq.html">الأسئلة الشائعة</a>
+        <a href="terms.html" data-no-spa>الشروط</a>
+        <a href="privacy.html" data-no-spa>الخصوصية</a>
+        <a href="refund.html" data-no-spa>الاسترجاع</a>
+      </div>
+      <div class="footer-note">
+        الدعم الرسمي: <a href="support.html" data-no-spa>نموذج الدعم</a> — <span class="muted">@Ayed_Academy_2026</span><br>
+        © 2026 أكاديمية عايد — جميع الحقوق محفوظة.
+      </div>
+    </div>
+  </footer>
+
+  <div id="toastWrap" class="toast-wrap" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- Floating assistant -->
+  <button id="fab" class="fab" type="button" aria-label="مساعد التسجيل" title="مساعد التسجيل"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v12H7l-3 3V4z"/></svg></button>
+
+  <!-- Install overlay -->
+  <div id="install" class="install" aria-hidden="true">
+    <div class="sheet">
+      <div class="top">
+        <h3>ثبت المنصة كتطبيق 📲</h3>
+        <button class="icon-btn" type="button" data-install-close aria-label="إغلاق"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.3 5.7 12 12l6.3 6.3-1.4 1.4L10.6 13.4 4.3 19.7 2.9 18.3 9.2 12 2.9 5.7 4.3 4.3l6.3 6.3 6.3-6.3z"/></svg></button>
+      </div>
+      <div data-install-body>
+        <p>ثبّت منصة أكاديمية عايد على جهازك عشان تصير مثل التطبيق: <b>أسرع</b> + <b>حفظ التقدم</b> + <b>واجهة مرتبة</b>.</p>
+        <p class="small">بعد التثبيت بتظهر أيقونة على الشاشة الرئيسية — وتدخل مباشرة بدون ما تضيع وقت بالتصفح.</p>
+      </div>
+      <div class="row">
+        <button class="btn btn-primary pulse" type="button" data-install-go><span class="spark"></span>تثبيت الآن</button>
+        <button class="btn btn-ghost" type="button" data-install-close>لاحقًا</button>
+      </div>
+    </div>
+  </div>
+
+  
+    <!-- Generic Modal -->
+    <div id="modal" class="modal" role="dialog" aria-modal="true" aria-hidden="true">
+      <div class="box">
+        <div class="top">
+          <b data-modal-title>معلومات</b>
+          <button class="icon-btn" type="button" data-modal-close aria-label="إغلاق"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.3 5.7 12 12l6.3 6.3-1.4 1.4L10.6 13.4 4.3 19.7 2.9 18.3 9.2 12 2.9 5.7 4.3 4.3l6.3 6.3 6.3-6.3z"/></svg></button>
+        </div>
+        <div class="content" data-modal-body></div>
+      </div>
+    </div>
+
+    <!-- Assistant Template -->
+    <template id="assistant_tpl" data-title="مساعد التسجيل — أكاديمية عايد">
+      <div class="card pad">
+        <div style="display:flex; gap:12px; align-items:center;">
+          <div class="brand-mark" style="width:44px;height:44px;border-radius:18px;"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l4 8 8 1-6 6 2 9-8-4-8 4 2-9-6-6 8-1z"/></svg></div>
+          <div style="min-width:0">
+            <div style="font-weight:950; font-size:14px;">أكاديمية عايد — دورة STEP المكثفة 2026</div>
+            <div class="small" style="color:rgba(247,247,251,.65)">حساب رسمي: <b>@Ayed_Academy_2026</b> • مساعد داخل الموقع</div>
+          </div>
+        </div>
+        <div class="hr"></div>
+
+        <div class="chat">
+          <div class="chat-log" data-chat-log style="max-height:260px; overflow:auto; padding:2px;"></div>
+
+          <div class="chips" aria-label="أسئلة جاهزة">
+            <button class="chip" type="button" data-chip="كيف أسجل؟">كيف أسجل؟</button>
+            <button class="chip" type="button" data-chip="كم السعر الحالي؟">كم السعر الحالي؟</button>
+            <button class="chip" type="button" data-chip="كم باقي مقاعد؟">كم باقي مقاعد؟</button>
+            <button class="chip" type="button" data-chip="كيف تطلع الخطة؟">كيف تطلع الخطة؟</button>
+            <button class="chip" type="button" data-chip="وش اختبار STEP؟">وش اختبار STEP؟</button>
+          </div>
+
+          <div class="chat-input">
+            <input data-chat-input type="text" inputmode="text" placeholder="اكتب سؤالك هنا... (مثال: كيف أسجل؟)" />
+            <button class="btn btn-primary" type="button" data-chat-send><span class="spark"></span>إرسال</button>
+          </div>
+
+          <div class="hr"></div>
+
+          <div class="grid cols-2">
+            <div class="card pad soft">
+              <b style="font-size:13px;">روابط سريعة داخل الموقع</b>
+              <div class="spacer"></div>
+              <div style="display:flex; gap:10px; flex-wrap:wrap;">
+                <a class="btn btn-outline" href="level-test.html" data-qa>ابدأ الاختبار</a>
+                <a class="btn btn-ghost" href="results.html" data-qa>النتيجة والخطة</a>
+                <a class="btn btn-primary pulse" href="register.html" data-qa>التسجيل الآن</a>
+              </div>
+            </div>
+            <div class="card pad soft">
+              <b style="font-size:13px;">تواصل رسمي (تيليجرام)</b>
+              <p class="muted" style="margin:8px 0 0">إذا احتجت تأكيد/مشكلة بالإيصال — تواصل معنا مباشرة.</p>
+              <div class="spacer"></div>
+              <button class="btn btn-primary" type="button" data-contact><span class="spark"></span>نموذج الدعم الرسمي</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <!-- Terms/Privacy/Refund Templates (for popups) -->
+    <template id="terms_tpl" data-title="الشروط والأحكام">
+      <h3>ملخص واضح</h3>
+      <ul>
+        <li>المنصة تقدم اختبار تحديد مستوى وخطة مذاكرة إرشادية — الاستخدام على مسؤولية المستخدم.</li>
+        <li>تفعيل الاشتراك يتم بعد <b>التحقق من الإيصال</b> عبر حساب الأكاديمية الرسمي.</li>
+        <li>ممنوع مشاركة/تسريب محتوى الدورة أو إعادة نشره.</li>
+        <li>أي تحويل يتم لحساب غير البيانات الرسمية المعروضة داخل الموقع: الأكاديمية غير مسؤولة عنه.</li>
+      </ul>
+      <h3>سلوك الاستخدام</h3>
+      <ul>
+        <li>الالتزام بالاحترام في التواصل.</li>
+        <li>عدم تكرار الرسائل لتسريع الرد.</li>
+      </ul>
+      <p class="small">آخر تحديث: 21 يناير 2026</p>
+    </template>
+
+    <template id="privacy_tpl" data-title="سياسة الخصوصية">
+      <h3>ما الذي نجمعه؟</h3>
+      <ul>
+        <li>بيانات بسيطة مثل الاسم ونتيجة الاختبار لأجل إعداد الخطة وتحسين التجربة.</li>
+        <li>ملف الإيصال يتم إرفاقه من طرفك داخل المحادثة الرسمية لتأكيد التفعيل.</li>
+      </ul>
+      <h3>كيف نستخدم البيانات؟</h3>
+      <ul>
+        <li>للتواصل الإداري وتأكيد الاشتراك فقط.</li>
+        <li>لا نبيع بياناتك ولا نشاركها لأغراض تسويقية خارجية.</li>
+      </ul>
+      <h3>التخزين</h3>
+      <p>حفظ التقدم يتم محليًا في جهازك عبر المتصفح (LocalStorage) لسهولة العودة دون فقدان.</p>
+      <p class="small">آخر تحديث: 21 يناير 2026</p>
+    </template>
+
+    <template id="refund_tpl" data-title="سياسة الاسترجاع">
+      <h3>متى يحق الاسترجاع؟</h3>
+      <ul>
+        <li>في حال عدم تفعيل الوصول بسبب مشكلة تحقق واضحة، وبعد مراجعة الإيصال.</li>
+        <li>تقديم الطلب خلال مدة محددة وفق سياسة الأكاديمية.</li>
+      </ul>
+      <h3>كيف تقدم طلب الاسترجاع؟</h3>
+      <ol>
+        <li>تواصل عبر تيليجرام الرسمي مع ذكر الاسم وسبب الطلب.</li>
+        <li>أرفق الإيصال ورقم العملية إن وجد.</li>
+        <li>يتم الرد بعد المراجعة وفق أولوية الطلبات.</li>
+      </ol>
+      <p class="small">ملاحظة: الالتزام بالشروط يساعد على سرعة الإجراء.</p>
+      <p class="small">آخر تحديث: 21 يناير 2026</p>
+    </template>
+    
+
+  <script src="assets/app.js?v=20260128b"></script>
+  <script src="assets/test.js?v=20260128b"></script>
+  <script src="assets/results.js?v=20260128b"></script>
+  <script src="assets/register.js?v=20260128b"></script>
+  <script src="assets/support.js?v=20260128b"></script>
+</body>
+</html>

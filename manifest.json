@@ -1,0 +1,31 @@
+{
+  "name": "أكاديمية عايد — STEP المكثفة 2026",
+  "short_name": "Ayed STEP",
+  "description": "اختبار تحديد مستوى + خطة مذاكرة + تسجيل سريع لدورة STEP المكثفة 2026.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f19",
+  "theme_color": "#fbbf24",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
